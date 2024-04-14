@@ -92,7 +92,7 @@
     </div>
   </div>
   <div class="container mx-auto max-w-screen-lg px-10 lg:px-0 -mt-40 md:-mt-80 pb-20">
-    <video class="m-auto shadow-2xl shadow-black rounded-lg" preload="auto" loop="" muted="" poster="@/main-page/images/demo_dark.jpg" autoplay="" playsinline="">
+    <video class="m-auto shadow-2xl shadow-black rounded-lg" preload="auto"  poster="@/main-page/images/demo_dark.jpg" >
       <source type="video/mp4" src="@/main-page/images/demo_dark.mp4">
     </video>
   </div>

@@ -50,7 +50,7 @@ import "@/main-page/css/helpCenter.css"
                                                                               target="_blank"><span>Go to BitLaunch</span></a>
                                   <div class="relative cursor-pointer"><select
                                       class="peer absolute z-10 block h-6 w-full cursor-pointer opacity-0 md:text-base">
-                                    <option class="text-black" selected="" value="/en/">English</option>
+                                    <option class="text-black"  value="/en/">English</option>
                                     ;</select>
                                     <div
                                         class="mb-10 ml-5 flex items-center gap-1 text-md hover:opacity-80 peer-hover:opacity-80 md:m-0 md:ml-3 md:text-base">
@@ -87,7 +87,7 @@ import "@/main-page/css/helpCenter.css"
                                                                                                         target="_blank"><span>Go to BitLaunch</span></a>
                           <div class="relative cursor-pointer"><select
                               class="peer absolute z-10 block h-6 w-full cursor-pointer opacity-0 md:text-base">
-                            <option class="text-black" selected="" value="/en/">English</option>
+                            <option class="text-black"  value="/en/">English</option>
                             ;</select>
                             <div
                                 class="mb-10 ml-5 flex items-center gap-1 text-md hover:opacity-80 peer-hover:opacity-80 md:m-0 md:ml-3 md:text-base">

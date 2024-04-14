@@ -37,112 +37,112 @@
       </div>
     </div>
   </div>-->
-  <app-servers-new _nghost-ppc-c3="">
-    <div _ngcontent-ppc-c3="" class="row">
-      <div _ngcontent-ppc-c3="" class="col"><h1 _ngcontent-ppc-c3="" class="d-inline" _msttexthash="13441012"
+  <app-servers-new _nghost-ppc-c3="1">
+    <div _ngcontent-ppc-c3="1" class="row">
+      <div _ngcontent-ppc-c3="1" class="col"><h1 _ngcontent-ppc-c3="1" class="d-inline" _msttexthash="13441012"
                                                 _msthash="13">创建服务器</h1></div>
     </div>
-    <div _ngcontent-ppc-c3="" class="row mt-4 mb-3">
-      <div _ngcontent-ppc-c3="" class="col"><h4 _ngcontent-ppc-c3="" _msttexthash="11767366" _msthash="14">选择主机</h4>
+    <div _ngcontent-ppc-c3="1" class="row mt-4 mb-3">
+      <div _ngcontent-ppc-c3="1" class="col"><h4 _ngcontent-ppc-c3="1" _msttexthash="11767366" _msthash="14">选择主机</h4>
       </div>
     </div>
-    <div _ngcontent-ppc-c3="" class="row mb-5">
-      <div _ngcontent-ppc-c3="" class="col-12 col-sm mb-3">
-        <div _ngcontent-ppc-c3="" class="bitlaunch host card">
-          <div _ngcontent-ppc-c3="" class="card-body"></div>
+    <div _ngcontent-ppc-c3="1" class="row mb-5">
+      <div _ngcontent-ppc-c3="1" class="col-12 col-sm mb-3">
+        <div _ngcontent-ppc-c3="1" class="bitlaunch host card">
+          <div _ngcontent-ppc-c3="1" class="card-body"></div>
         </div>
-        <div _ngcontent-ppc-c3="" class="row mt-3">
-          <div _ngcontent-ppc-c3="" class="col"><span _ngcontent-ppc-c3="" class="text-muted"><i _ngcontent-ppc-c3=""
+        <div _ngcontent-ppc-c3="1" class="row mt-3">
+          <div _ngcontent-ppc-c3="1" class="col"><span _ngcontent-ppc-c3="1" class="text-muted"><i _ngcontent-ppc-c3="1"
                                                                                                  class="material-icons small mr-1"
                                                                                                  _msttexthash="2772042"
                                                                                                  _msthash="15">盾</i><font
-              _mstmutation="1" _msttexthash="12664405" _msthash="16">包括 DDoS 保护</font><br _ngcontent-ppc-c3=""><i
-              _ngcontent-ppc-c3="" class="material-icons small mr-1" _msttexthash="236106"
+              _mstmutation="1" _msttexthash="12664405" _msthash="16">包括 DDoS 保护</font><br _ngcontent-ppc-c3="1"><i
+              _ngcontent-ppc-c3="1" class="material-icons small mr-1" _msttexthash="236106"
               _msthash="17">all_inclusive</i><font _mstmutation="1" _msttexthash="15368392"
-                                                   _msthash="18">无限转账</font><br _ngcontent-ppc-c3=""><i
-              _ngcontent-ppc-c3="" class="material-icons small mr-1" _msttexthash="5491538" _msthash="19">警告</i><font
-              _mstmutation="1" _msttexthash="13596908" _msthash="20">备份不可用</font><br _ngcontent-ppc-c3=""></span>
+                                                   _msthash="18">无限转账</font><br _ngcontent-ppc-c3="1"><i
+              _ngcontent-ppc-c3="1" class="material-icons small mr-1" _msttexthash="5491538" _msthash="19">警告</i><font
+              _mstmutation="1" _msttexthash="13596908" _msthash="20">备份不可用</font><br _ngcontent-ppc-c3="1"></span>
           </div>
         </div>
       </div>
-      <div _ngcontent-ppc-c3="" class="col-12 col-sm mb-3">
-        <div _ngcontent-ppc-c3="" class="digitalocean host card">
-          <div _ngcontent-ppc-c3="" class="card-body"></div>
+      <div _ngcontent-ppc-c3="1" class="col-12 col-sm mb-3">
+        <div _ngcontent-ppc-c3="1" class="digitalocean host card">
+          <div _ngcontent-ppc-c3="1" class="card-body"></div>
         </div>
-        <div _ngcontent-ppc-c3="" class="row mt-3">
-          <div _ngcontent-ppc-c3="" class="col"><span _ngcontent-ppc-c3="" class="hostcomp"><i _ngcontent-ppc-c3=""
+        <div _ngcontent-ppc-c3="1" class="row mt-3">
+          <div _ngcontent-ppc-c3="1" class="col"><span _ngcontent-ppc-c3="1" class="hostcomp"><i _ngcontent-ppc-c3="1"
                                                                                                class="material-icons small mr-1"
                                                                                                _msttexthash="2772042"
                                                                                                _msthash="21">盾</i><font
-              _mstmutation="1" _msttexthash="12664405" _msthash="22">包括 DDoS 保护</font><br _ngcontent-ppc-c3=""><i
-              _ngcontent-ppc-c3="" class="material-icons small mr-1" _msttexthash="236106"
+              _mstmutation="1" _msttexthash="12664405" _msthash="22">包括 DDoS 保护</font><br _ngcontent-ppc-c3="1"><i
+              _ngcontent-ppc-c3="1" class="material-icons small mr-1" _msttexthash="236106"
               _msthash="23">all_inclusive</i><font _mstmutation="1" _msttexthash="15368392"
-                                                   _msthash="24">无限转账</font><br _ngcontent-ppc-c3=""><i
-              _ngcontent-ppc-c3="" class="material-icons small mr-1" _msttexthash="206700"
+                                                   _msthash="24">无限转账</font><br _ngcontent-ppc-c3="1"><i
+              _ngcontent-ppc-c3="1" class="material-icons small mr-1" _msttexthash="206700"
               _msthash="25">cloud_upload</i><font _mstmutation="1" _msttexthash="9739925"
-                                                  _msthash="26">提供备份</font><br _ngcontent-ppc-c3=""></span></div>
+                                                  _msthash="26">提供备份</font><br _ngcontent-ppc-c3="1"></span></div>
         </div>
       </div>
-      <div _ngcontent-ppc-c3="" class="col-12 col-sm mb-3">
-        <div _ngcontent-ppc-c3="" class="vultr host card">
-          <div _ngcontent-ppc-c3="" class="card-body"></div>
+      <div _ngcontent-ppc-c3="1" class="col-12 col-sm mb-3">
+        <div _ngcontent-ppc-c3="1" class="vultr host card">
+          <div _ngcontent-ppc-c3="1" class="card-body"></div>
         </div>
-        <div _ngcontent-ppc-c3="" class="row mt-3">
-          <div _ngcontent-ppc-c3="" class="col"><span _ngcontent-ppc-c3="" class="hostcomp"><i _ngcontent-ppc-c3=""
+        <div _ngcontent-ppc-c3="1" class="row mt-3">
+          <div _ngcontent-ppc-c3="1" class="col"><span _ngcontent-ppc-c3="1" class="hostcomp"><i _ngcontent-ppc-c3="1"
                                                                                                class="material-icons small mr-1"
                                                                                                _msttexthash="5491538"
                                                                                                _msthash="27">警告</i><font
-              _mstmutation="1" _msttexthash="13370513" _msthash="28">没有 DDoS 保护</font><br _ngcontent-ppc-c3=""><i
-              _ngcontent-ppc-c3="" class="material-icons small mr-1" _msttexthash="5491538" _msthash="29">警告</i><font
-              _mstmutation="1" _msttexthash="26367445" _msthash="30">转账超额适用</font><br _ngcontent-ppc-c3=""><i
-              _ngcontent-ppc-c3="" class="material-icons small mr-1" _msttexthash="206700"
+              _mstmutation="1" _msttexthash="13370513" _msthash="28">没有 DDoS 保护</font><br _ngcontent-ppc-c3="1"><i
+              _ngcontent-ppc-c3="1" class="material-icons small mr-1" _msttexthash="5491538" _msthash="29">警告</i><font
+              _mstmutation="1" _msttexthash="26367445" _msthash="30">转账超额适用</font><br _ngcontent-ppc-c3="1"><i
+              _ngcontent-ppc-c3="1" class="material-icons small mr-1" _msttexthash="206700"
               _msthash="31">cloud_upload</i><font _mstmutation="1" _msttexthash="9739925"
-                                                  _msthash="32">提供备份</font><br _ngcontent-ppc-c3=""></span></div>
+                                                  _msthash="32">提供备份</font><br _ngcontent-ppc-c3="1"></span></div>
         </div>
       </div>
-      <div _ngcontent-ppc-c3="" class="col-12 col-sm mb-3">
-        <div _ngcontent-ppc-c3="" class="linode host card">
-          <div _ngcontent-ppc-c3="" class="card-body"></div>
+      <div _ngcontent-ppc-c3="1" class="col-12 col-sm mb-3">
+        <div _ngcontent-ppc-c3="1" class="linode host card">
+          <div _ngcontent-ppc-c3="1" class="card-body"></div>
         </div>
-        <div _ngcontent-ppc-c3="" class="row mt-3">
-          <div _ngcontent-ppc-c3="" class="col"><span _ngcontent-ppc-c3="" class="hostcomp"><i _ngcontent-ppc-c3=""
+        <div _ngcontent-ppc-c3="1" class="row mt-3">
+          <div _ngcontent-ppc-c3="1" class="col"><span _ngcontent-ppc-c3="1" class="hostcomp"><i _ngcontent-ppc-c3="1"
                                                                                                class="material-icons small mr-1"
                                                                                                _msttexthash="2772042"
                                                                                                _msthash="33">盾</i><font
-              _mstmutation="1" _msttexthash="12664405" _msthash="34">包括 DDoS 保护</font><br _ngcontent-ppc-c3=""><i
-              _ngcontent-ppc-c3="" class="material-icons small mr-1" _msttexthash="236106"
+              _mstmutation="1" _msttexthash="12664405" _msthash="34">包括 DDoS 保护</font><br _ngcontent-ppc-c3="1"><i
+              _ngcontent-ppc-c3="1" class="material-icons small mr-1" _msttexthash="236106"
               _msthash="35">all_inclusive</i><font _mstmutation="1" _msttexthash="15368392"
-                                                   _msthash="36">无限转账</font><br _ngcontent-ppc-c3=""><i
-              _ngcontent-ppc-c3="" class="material-icons small mr-1" _msttexthash="206700"
+                                                   _msthash="36">无限转账</font><br _ngcontent-ppc-c3="1"><i
+              _ngcontent-ppc-c3="1" class="material-icons small mr-1" _msttexthash="206700"
               _msthash="37">cloud_upload</i><font _mstmutation="1" _msttexthash="9739925"
-                                                  _msthash="38">提供备份</font><br _ngcontent-ppc-c3=""></span></div>
+                                                  _msthash="38">提供备份</font><br _ngcontent-ppc-c3="1"></span></div>
         </div>
       </div>
     </div><!----><!---->
-    <div _ngcontent-ppc-c3="">
-      <div _ngcontent-ppc-c3="" class="row mb-3">
-        <div _ngcontent-ppc-c3="" class="col-12"><h4 _ngcontent-ppc-c3="" _msttexthash="12223523" _msthash="39">
+    <div _ngcontent-ppc-c3="1">
+      <div _ngcontent-ppc-c3="1" class="row mb-3">
+        <div _ngcontent-ppc-c3="1" class="col-12"><h4 _ngcontent-ppc-c3="1" _msttexthash="12223523" _msthash="39">
           选择硬件</h4></div>
       </div>
-      <div _ngcontent-ppc-c3="" class="row"><!---->
-        <div _ngcontent-ppc-c3="" class="col-12 col-sm-3 mb-3">
-          <div _ngcontent-ppc-c3="" class="region card active" container="body">
-            <div _ngcontent-ppc-c3="" class="card-body">
-              <div _ngcontent-ppc-c3="" class="row">
-                <div _ngcontent-ppc-c3="" class="col-2 col-xs-3 col-md-3">
-                  <div _ngcontent-ppc-c3="" class="hardware-logo-wrapper"><!---->
-                    <div _ngcontent-ppc-c3="">
-                      <svg _ngcontent-ppc-c3="" fill="currentColor" viewBox="0 0 16 16"
+      <div _ngcontent-ppc-c3="1" class="row"><!---->
+        <div _ngcontent-ppc-c3="1" class="col-12 col-sm-3 mb-3">
+          <div _ngcontent-ppc-c3="1" class="region card active" container="body">
+            <div _ngcontent-ppc-c3="1" class="card-body">
+              <div _ngcontent-ppc-c3="1" class="row">
+                <div _ngcontent-ppc-c3="1" class="col-2 col-xs-3 col-md-3">
+                  <div _ngcontent-ppc-c3="1" class="hardware-logo-wrapper"><!---->
+                    <div _ngcontent-ppc-c3="1">
+                      <svg _ngcontent-ppc-c3="1" fill="currentColor" viewBox="0 0 16 16"
                            xmlns="http://www.w3.org/2000/svg">
-                        <path _ngcontent-ppc-c3=""
+                        <path _ngcontent-ppc-c3="1"
                               d="M5 0a.5.5 0 0 1 .5.5V2h1V.5a.5.5 0 0 1 1 0V2h1V.5a.5.5 0 0 1 1 0V2h1V.5a.5.5 0 0 1 1 0V2A2.5 2.5 0 0 1 14 4.5h1.5a.5.5 0 0 1 0 1H14v1h1.5a.5.5 0 0 1 0 1H14v1h1.5a.5.5 0 0 1 0 1H14v1h1.5a.5.5 0 0 1 0 1H14a2.5 2.5 0 0 1-2.5 2.5v1.5a.5.5 0 0 1-1 0V14h-1v1.5a.5.5 0 0 1-1 0V14h-1v1.5a.5.5 0 0 1-1 0V14h-1v1.5a.5.5 0 0 1-1 0V14A2.5 2.5 0 0 1 2 11.5H.5a.5.5 0 0 1 0-1H2v-1H.5a.5.5 0 0 1 0-1H2v-1H.5a.5.5 0 0 1 0-1H2v-1H.5a.5.5 0 0 1 0-1H2A2.5 2.5 0 0 1 4.5 2V.5A.5.5 0 0 1 5 0zm-.5 3A1.5 1.5 0 0 0 3 4.5v7A1.5 1.5 0 0 0 4.5 13h7a1.5 1.5 0 0 0 1.5-1.5v-7A1.5 1.5 0 0 0 11.5 3h-7zM5 6.5A1.5 1.5 0 0 1 6.5 5h3A1.5 1.5 0 0 1 11 6.5v3A1.5 1.5 0 0 1 9.5 11h-3A1.5 1.5 0 0 1 5 9.5v-3zM6.5 6a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3z"></path>
                       </svg>
                     </div><!----></div>
                 </div>
-                <div _ngcontent-ppc-c3="" class="col-10 col-xs-9 col-md-9">
-                  <div _ngcontent-ppc-c3="" class="card-text d-inline-block align-middle text-left"
-                       _msttexthash="32897293" _msthash="573"><b _ngcontent-ppc-c3="" _istranslated="1"> 云 CPU</b><br
-                      _ngcontent-ppc-c3="" _istranslated="1"><small _ngcontent-ppc-c3="" style="color:#6c757d;"
+                <div _ngcontent-ppc-c3="1" class="col-10 col-xs-9 col-md-9">
+                  <div _ngcontent-ppc-c3="1" class="card-text d-inline-block align-middle text-left"
+                       _msttexthash="32897293" _msthash="573"><b _ngcontent-ppc-c3="1" _istranslated="1"> 云 CPU</b><br
+                      _ngcontent-ppc-c3="1" _istranslated="1"><small _ngcontent-ppc-c3="1" style="color:#6c757d;"
                                                                     _istranslated="1">英特尔驱动的 VPS</small></div>
                 </div>
               </div>
@@ -150,329 +150,329 @@
           </div>
         </div>
       </div>
-      <div _ngcontent-ppc-c3="" class="mt-5">
-        <div _ngcontent-ppc-c3="" class="row mb-3">
-          <div _ngcontent-ppc-c3="" class="col"><h4 _ngcontent-ppc-c3="" _msttexthash="11283727" _msthash="41">
+      <div _ngcontent-ppc-c3="1" class="mt-5">
+        <div _ngcontent-ppc-c3="1" class="row mb-3">
+          <div _ngcontent-ppc-c3="1" class="col"><h4 _ngcontent-ppc-c3="1" _msttexthash="11283727" _msthash="41">
             选择图像</h4></div>
         </div>
-        <app-server-image _ngcontent-ppc-c3="" _nghost-ppc-c4="">
-          <div _ngcontent-ppc-c4="">
-            <div _ngcontent-ppc-c4="" class="row mb-3">
-              <div _ngcontent-ppc-c4="" class="col">
-                <ul _ngcontent-ppc-c4="" class="nav-images nav nav-pills">
-                  <li _ngcontent-ppc-c4="" class="nav-item"><a _ngcontent-ppc-c4="" class="nav-link active" 
+        <app-server-image _ngcontent-ppc-c3="1" _nghost-ppc-c4="1">
+          <div _ngcontent-ppc-c4="1">
+            <div _ngcontent-ppc-c4="1" class="row mb-3">
+              <div _ngcontent-ppc-c4="1" class="col">
+                <ul _ngcontent-ppc-c4="1" class="nav-images nav nav-pills">
+                  <li _ngcontent-ppc-c4="1" class="nav-item"><a _ngcontent-ppc-c4="1" class="nav-link active" 
                                                                _msttexthash="4178018" _msthash="42">图像</a></li>
-                  <li _ngcontent-ppc-c4="" class="nav-item"><a _ngcontent-ppc-c4="" class="nav-link" 
+                  <li _ngcontent-ppc-c4="1" class="nav-item"><a _ngcontent-ppc-c4="1" class="nav-link" 
                                                                _msttexthash="12124801" _msthash="43">应用程序</a></li>
                 </ul>
               </div>
             </div><!---->
-            <div _ngcontent-ppc-c4="" class="row"><!----><!---->
-              <div _ngcontent-ppc-c4="" class="col-12 col-sm-3 mb-3">
-                <div _ngcontent-ppc-c4="" class="image card active">
-                  <div _ngcontent-ppc-c4="" class="card-body">
-                    <div _ngcontent-ppc-c4="" class="card-text text-center"><b _ngcontent-ppc-c4=""
+            <div _ngcontent-ppc-c4="1" class="row"><!----><!---->
+              <div _ngcontent-ppc-c4="1" class="col-12 col-sm-3 mb-3">
+                <div _ngcontent-ppc-c4="1" class="image card active">
+                  <div _ngcontent-ppc-c4="1" class="card-body">
+                    <div _ngcontent-ppc-c4="1" class="card-text text-center"><b _ngcontent-ppc-c4="1"
                                                                                _msttexthash="5208216" _msthash="480">Ubuntu的</b>
                     </div>
                   </div><!----><!---->
-                  <div _ngcontent-ppc-c4="" class="card-footer has-versions dropdown" container="body" dropdown="">
-                    <div _ngcontent-ppc-c4="" class="dropdown-caret"><i _ngcontent-ppc-c4=""
+                  <div _ngcontent-ppc-c4="1" class="card-footer has-versions dropdown" container="body" dropdown="1">
+                    <div _ngcontent-ppc-c4="1" class="dropdown-caret"><i _ngcontent-ppc-c4="1"
                                                                         class="material-icons md-18 align-middle"
                                                                         _msttexthash="425139" _msthash="474"></i>
                     </div>
-                    <div _ngcontent-ppc-c4="" class="text-center" dropdowntoggle="" aria-haspopup="true"
+                    <div _ngcontent-ppc-c4="1" class="text-center" dropdowntoggle="1" aria-haspopup="true"
                          _msttexthash="188864" _msthash="475">Ubuntu 22.04 LTS
                     </div><!----></div><!----></div>
               </div>
-              <div _ngcontent-ppc-c4="" class="col-12 col-sm-3 mb-3">
-                <div _ngcontent-ppc-c4="" class="image card">
-                  <div _ngcontent-ppc-c4="" class="card-body">
-                    <div _ngcontent-ppc-c4="" class="card-text text-center"><b _ngcontent-ppc-c4=""
+              <div _ngcontent-ppc-c4="1" class="col-12 col-sm-3 mb-3">
+                <div _ngcontent-ppc-c4="1" class="image card">
+                  <div _ngcontent-ppc-c4="1" class="card-body">
+                    <div _ngcontent-ppc-c4="1" class="card-text text-center"><b _ngcontent-ppc-c4="1"
                                                                                _msttexthash="5200299" _msthash="479">Debian
                       的</b></div>
                   </div><!----><!---->
-                  <div _ngcontent-ppc-c4="" class="card-footer has-versions dropdown" container="body" dropdown="">
-                    <div _ngcontent-ppc-c4="" class="dropdown-caret"><i _ngcontent-ppc-c4=""
+                  <div _ngcontent-ppc-c4="1" class="card-footer has-versions dropdown" container="body" dropdown="1">
+                    <div _ngcontent-ppc-c4="1" class="dropdown-caret"><i _ngcontent-ppc-c4="1"
                                                                         class="material-icons md-18 align-middle"
                                                                         _msttexthash="425139" _msthash="472"></i>
                     </div>
-                    <div _ngcontent-ppc-c4="" class="text-center" dropdowntoggle="" aria-haspopup="true"
+                    <div _ngcontent-ppc-c4="1" class="text-center" dropdowntoggle="1" aria-haspopup="true"
                          _msttexthash="12845339" _msthash="473">选择版本
                     </div><!----></div><!----></div>
               </div>
-              <div _ngcontent-ppc-c4="" class="col-12 col-sm-3 mb-3">
-                <div _ngcontent-ppc-c4="" class="image card">
-                  <div _ngcontent-ppc-c4="" class="card-body">
-                    <div _ngcontent-ppc-c4="" class="card-text text-center"><b _ngcontent-ppc-c4=""
+              <div _ngcontent-ppc-c4="1" class="col-12 col-sm-3 mb-3">
+                <div _ngcontent-ppc-c4="1" class="image card">
+                  <div _ngcontent-ppc-c4="1" class="card-body">
+                    <div _ngcontent-ppc-c4="1" class="card-text text-center"><b _ngcontent-ppc-c4="1"
                                                                                _msttexthash="21122010" _msthash="478">CentOS
                       操作系统</b></div>
                   </div><!----><!---->
-                  <div _ngcontent-ppc-c4="" class="card-footer has-versions dropdown" container="body" dropdown="">
-                    <div _ngcontent-ppc-c4="" class="dropdown-caret"><i _ngcontent-ppc-c4=""
+                  <div _ngcontent-ppc-c4="1" class="card-footer has-versions dropdown" container="body" dropdown="1">
+                    <div _ngcontent-ppc-c4="1" class="dropdown-caret"><i _ngcontent-ppc-c4="1"
                                                                         class="material-icons md-18 align-middle"
                                                                         _msttexthash="425139" _msthash="470"></i>
                     </div>
-                    <div _ngcontent-ppc-c4="" class="text-center" dropdowntoggle="" aria-haspopup="true"
+                    <div _ngcontent-ppc-c4="1" class="text-center" dropdowntoggle="1" aria-haspopup="true"
                          _msttexthash="12845339" _msthash="471">选择版本
                     </div><!----></div><!----></div>
               </div>
-              <div _ngcontent-ppc-c4="" class="col-12 col-sm-3 mb-3">
-                <div _ngcontent-ppc-c4="" class="image card">
-                  <div _ngcontent-ppc-c4="" class="card-body">
-                    <div _ngcontent-ppc-c4="" class="card-text text-center"><b _ngcontent-ppc-c4=""
+              <div _ngcontent-ppc-c4="1" class="col-12 col-sm-3 mb-3">
+                <div _ngcontent-ppc-c4="1" class="image card">
+                  <div _ngcontent-ppc-c4="1" class="card-body">
+                    <div _ngcontent-ppc-c4="1" class="card-text text-center"><b _ngcontent-ppc-c4="1"
                                                                                _msttexthash="5470725"
                                                                                _msthash="477">窗户</b></div>
                   </div><!---->
-                  <div _ngcontent-ppc-c4="" class="card-footer text-center" _msttexthash="15538731" _msthash="469">
+                  <div _ngcontent-ppc-c4="1" class="card-footer text-center" _msttexthash="15538731" _msthash="469">
                     Windows 10 专业版
                   </div><!----></div>
               </div>
-              <div _ngcontent-ppc-c4="" class="col-12 col-sm-3 mb-3">
-                <div _ngcontent-ppc-c4="" class="image card">
-                  <div _ngcontent-ppc-c4="" class="card-body">
-                    <div _ngcontent-ppc-c4="" class="card-text text-center"><b _ngcontent-ppc-c4=""
+              <div _ngcontent-ppc-c4="1" class="col-12 col-sm-3 mb-3">
+                <div _ngcontent-ppc-c4="1" class="image card">
+                  <div _ngcontent-ppc-c4="1" class="card-body">
+                    <div _ngcontent-ppc-c4="1" class="card-text text-center"><b _ngcontent-ppc-c4="1"
                                                                                _msttexthash="11646284" _msthash="476">Ubuntu
                       桌面</b></div>
                   </div><!----><!---->
-                  <div _ngcontent-ppc-c4="" class="card-footer has-versions dropdown" container="body" dropdown="">
-                    <div _ngcontent-ppc-c4="" class="dropdown-caret"><i _ngcontent-ppc-c4=""
+                  <div _ngcontent-ppc-c4="1" class="card-footer has-versions dropdown" container="body" dropdown="1">
+                    <div _ngcontent-ppc-c4="1" class="dropdown-caret"><i _ngcontent-ppc-c4="1"
                                                                         class="material-icons md-18 align-middle"
                                                                         _msttexthash="425139" _msthash="467"></i>
                     </div>
-                    <div _ngcontent-ppc-c4="" class="text-center" dropdowntoggle="" aria-haspopup="true"
+                    <div _ngcontent-ppc-c4="1" class="text-center" dropdowntoggle="1" aria-haspopup="true"
                          _msttexthash="12845339" _msthash="468">选择版本
                     </div><!----></div><!----></div>
               </div>
             </div><!----></div>
         </app-server-image>
       </div><!---->
-      <div _ngcontent-ppc-c3="" class="mt-5">
-        <div _ngcontent-ppc-c3="" class="mb-5">
-          <div _ngcontent-ppc-c3="" class="row mb-3">
-            <div _ngcontent-ppc-c3="" class="col"><h4 _ngcontent-ppc-c3="" _msttexthash="26717106" _msthash="552">
+      <div _ngcontent-ppc-c3="1" class="mt-5">
+        <div _ngcontent-ppc-c3="1" class="mb-5">
+          <div _ngcontent-ppc-c3="1" class="row mb-3">
+            <div _ngcontent-ppc-c3="1" class="col"><h4 _ngcontent-ppc-c3="1" _msttexthash="26717106" _msthash="552">
               选择数据中心区域</h4></div>
           </div>
-          <div _ngcontent-ppc-c3="" class="row"><!---->
-            <div _ngcontent-ppc-c3="" class="col-12 col-sm-3 mb-3">
-              <div _ngcontent-ppc-c3="" class="region card active" container="body">
-                <div _ngcontent-ppc-c3="" class="card-body"><!---->
-                  <div _ngcontent-ppc-c3="" class="text-center">
-                    <div _ngcontent-ppc-c3="" class="flag-wrapper"><!----><!----><!---->
-                      <svg _ngcontent-ppc-c3="" viewBox="0 0 640 480" width="52">
-                        <path _ngcontent-ppc-c3="" d="M0 0h640v480H0z" fill="#21468b"></path>
-                        <path _ngcontent-ppc-c3="" d="M0 0h640v320H0z" fill="#fff"></path>
-                        <path _ngcontent-ppc-c3="" d="M0 0h640v160H0z" fill="#ae1c28"></path>
+          <div _ngcontent-ppc-c3="1" class="row"><!---->
+            <div _ngcontent-ppc-c3="1" class="col-12 col-sm-3 mb-3">
+              <div _ngcontent-ppc-c3="1" class="region card active" container="body">
+                <div _ngcontent-ppc-c3="1" class="card-body"><!---->
+                  <div _ngcontent-ppc-c3="1" class="text-center">
+                    <div _ngcontent-ppc-c3="1" class="flag-wrapper"><!----><!----><!---->
+                      <svg _ngcontent-ppc-c3="1" viewBox="0 0 640 480" width="52">
+                        <path _ngcontent-ppc-c3="1" d="M0 0h640v480H0z" fill="#21468b"></path>
+                        <path _ngcontent-ppc-c3="1" d="M0 0h640v320H0z" fill="#fff"></path>
+                        <path _ngcontent-ppc-c3="1" d="M0 0h640v160H0z" fill="#ae1c28"></path>
                       </svg><!----></div>
-                    <div _ngcontent-ppc-c3="" class="card-text d-inline-block align-middle text-left"><b
-                        _ngcontent-ppc-c3="" _msttexthash="15609113" _msthash="543">阿姆斯特丹</b><br
-                        _ngcontent-ppc-c3=""><small _ngcontent-ppc-c3="" style="color:#6c757d;"><font _mstmutation="1"
+                    <div _ngcontent-ppc-c3="1" class="card-text d-inline-block align-middle text-left"><b
+                        _ngcontent-ppc-c3="1" _msttexthash="15609113" _msthash="543">阿姆斯特丹</b><br
+                        _ngcontent-ppc-c3="1"><small _ngcontent-ppc-c3="1" style="color:#6c757d;"><font _mstmutation="1"
                                                                                                       _msttexthash="5230797"
                                                                                                       _msthash="544">荷兰</font>
                       <!----></small></div>
                   </div><!----></div><!---->
-                <div _ngcontent-ppc-c3=""><!---->
-                  <div _ngcontent-ppc-c3="">
-                    <div _ngcontent-ppc-c3="" class="card-footer">
-                      <div _ngcontent-ppc-c3="" class="row"><!---->
-                        <div _ngcontent-ppc-c3="" class="col subregion footer-selection-disabled" container="body"
+                <div _ngcontent-ppc-c3="1"><!---->
+                  <div _ngcontent-ppc-c3="1">
+                    <div _ngcontent-ppc-c3="1" class="card-footer">
+                      <div _ngcontent-ppc-c3="1" class="row"><!---->
+                        <div _ngcontent-ppc-c3="1" class="col subregion footer-selection-disabled" container="body"
                              _msttexthash="4459" _msthash="542">1
                         </div><!---->
-                        <div _ngcontent-ppc-c3="" class="col subregion active" container="body" _msttexthash="4550"
+                        <div _ngcontent-ppc-c3="1" class="col subregion active" container="body" _msttexthash="4550"
                              _msthash="541">2
                         </div><!----></div>
                     </div>
                   </div><!----></div>
               </div>
             </div>
-            <div _ngcontent-ppc-c3="" class="col-12 col-sm-3 mb-3">
-              <div _ngcontent-ppc-c3="" class="region card" container="body">
-                <div _ngcontent-ppc-c3="" class="card-body"><!---->
-                  <div _ngcontent-ppc-c3="" class="text-center">
-                    <div _ngcontent-ppc-c3="" class="flag-wrapper"><!----><!----><!----><!---->
-                      <svg _ngcontent-ppc-c3="" viewBox="0 0 640 480" width="52">
-                        <g _ngcontent-ppc-c3="" transform="scale(.64064 .72072)">
-                          <g _ngcontent-ppc-c3="" fill-rule="evenodd" stroke-width="1pt" transform="scale(8.325)">
-                            <rect _ngcontent-ppc-c3="" fill="#00319c" height="80" width="40" x="0" y="0"></rect>
-                            <rect _ngcontent-ppc-c3="" fill="#ffde00" height="80" width="40" x="40" y="0"></rect>
-                            <rect _ngcontent-ppc-c3="" fill="#de2110" height="80" width="40" x="80" y="0"></rect>
+            <div _ngcontent-ppc-c3="1" class="col-12 col-sm-3 mb-3">
+              <div _ngcontent-ppc-c3="1" class="region card" container="body">
+                <div _ngcontent-ppc-c3="1" class="card-body"><!---->
+                  <div _ngcontent-ppc-c3="1" class="text-center">
+                    <div _ngcontent-ppc-c3="1" class="flag-wrapper"><!----><!----><!----><!---->
+                      <svg _ngcontent-ppc-c3="1" viewBox="0 0 640 480" width="52">
+                        <g _ngcontent-ppc-c3="1" transform="scale(.64064 .72072)">
+                          <g _ngcontent-ppc-c3="1" fill-rule="evenodd" stroke-width="1pt" transform="scale(8.325)">
+                            <rect _ngcontent-ppc-c3="1" fill="#00319c" height="80" width="40" x="0" y="0"></rect>
+                            <rect _ngcontent-ppc-c3="1" fill="#ffde00" height="80" width="40" x="40" y="0"></rect>
+                            <rect _ngcontent-ppc-c3="1" fill="#de2110" height="80" width="40" x="80" y="0"></rect>
                           </g>
                         </g>
                       </svg>
                     </div>
-                    <div _ngcontent-ppc-c3="" class="card-text d-inline-block align-middle text-left"><b
-                        _ngcontent-ppc-c3="" _msttexthash="14445184" _msthash="539">布加勒斯特</b><br
-                        _ngcontent-ppc-c3=""><small _ngcontent-ppc-c3="" style="color:#6c757d;"><font _mstmutation="1"
+                    <div _ngcontent-ppc-c3="1" class="card-text d-inline-block align-middle text-left"><b
+                        _ngcontent-ppc-c3="1" _msttexthash="14445184" _msthash="539">布加勒斯特</b><br
+                        _ngcontent-ppc-c3="1"><small _ngcontent-ppc-c3="1" style="color:#6c757d;"><font _mstmutation="1"
                                                                                                       _msttexthash="12456301"
                                                                                                       _msthash="540">罗马尼亚</font>
                       <!----></small></div>
                   </div><!----></div><!---->
-                <div _ngcontent-ppc-c3=""><!---->
-                  <div _ngcontent-ppc-c3="">
-                    <div _ngcontent-ppc-c3="" class="card-footer">
-                      <div _ngcontent-ppc-c3="" class="row"><!---->
-                        <div _ngcontent-ppc-c3="" class="col subregion" container="body" _msttexthash="4459"
+                <div _ngcontent-ppc-c3="1"><!---->
+                  <div _ngcontent-ppc-c3="1">
+                    <div _ngcontent-ppc-c3="1" class="card-footer">
+                      <div _ngcontent-ppc-c3="1" class="row"><!---->
+                        <div _ngcontent-ppc-c3="1" class="col subregion" container="body" _msttexthash="4459"
                              _msthash="538">1
                         </div><!----></div>
                     </div>
                   </div><!----></div>
               </div>
             </div>
-            <div _ngcontent-ppc-c3="" class="col-12 col-sm-3 mb-3">
-              <div _ngcontent-ppc-c3="" class="region card" container="body">
-                <div _ngcontent-ppc-c3="" class="card-body"><!---->
-                  <div _ngcontent-ppc-c3="" class="text-center">
-                    <div _ngcontent-ppc-c3="" class="flag-wrapper"><!----><!---->
-                      <svg _ngcontent-ppc-c3="" viewBox="0 0 640 480" width="52">
-                        <defs _ngcontent-ppc-c3="">
-                          <clipPath _ngcontent-ppc-c3="" id="a">
-                            <path _ngcontent-ppc-c3="" d="M-85.3 0h682.6v512H-85.3z" fill-opacity="0.7"></path>
+            <div _ngcontent-ppc-c3="1" class="col-12 col-sm-3 mb-3">
+              <div _ngcontent-ppc-c3="1" class="region card" container="body">
+                <div _ngcontent-ppc-c3="1" class="card-body"><!---->
+                  <div _ngcontent-ppc-c3="1" class="text-center">
+                    <div _ngcontent-ppc-c3="1" class="flag-wrapper"><!----><!---->
+                      <svg _ngcontent-ppc-c3="1" viewBox="0 0 640 480" width="52">
+                        <defs _ngcontent-ppc-c3="1">
+                          <clipPath _ngcontent-ppc-c3="1" id="a">
+                            <path _ngcontent-ppc-c3="1" d="M-85.3 0h682.6v512H-85.3z" fill-opacity="0.7"></path>
                           </clipPath>
                         </defs>
-                        <g _ngcontent-ppc-c3="" clip-path="url(#a)" transform="translate(80) scale(.94)">
-                          <g _ngcontent-ppc-c3="" stroke-width="1pt">
-                            <path _ngcontent-ppc-c3="" d="M-256 0H768v512H-256z" fill="#012169"></path>
-                            <path _ngcontent-ppc-c3=""
+                        <g _ngcontent-ppc-c3="1" clip-path="url(#a)" transform="translate(80) scale(.94)">
+                          <g _ngcontent-ppc-c3="1" stroke-width="1pt">
+                            <path _ngcontent-ppc-c3="1" d="M-256 0H768v512H-256z" fill="#012169"></path>
+                            <path _ngcontent-ppc-c3="1"
                                   d="M-256 0v57.2L653.5 512H768v-57.2L-141.5 0H-256zM768 0v57.2L-141.5 512H-256v-57.2L653.5 0H768z"
                                   fill="#fff"></path>
-                            <path _ngcontent-ppc-c3="" d="M170.7 0v512h170.6V0H170.7zM-256 170.7v170.6H768V170.7H-256z"
+                            <path _ngcontent-ppc-c3="1" d="M170.7 0v512h170.6V0H170.7zM-256 170.7v170.6H768V170.7H-256z"
                                   fill="#fff"></path>
-                            <path _ngcontent-ppc-c3=""
+                            <path _ngcontent-ppc-c3="1"
                                   d="M-256 204.8v102.4H768V204.8H-256zM204.8 0v512h102.4V0H204.8zM-256 512L85.3 341.3h76.4L-179.7 512H-256zm0-512L85.3 170.7H9L-256 38.2V0zm606.4 170.7L691.7 0H768L426.7 170.7h-76.3zM768 512L426.7 341.3H503l265 132.5V512z"
                                   fill="#c8102e"></path>
                           </g>
                         </g>
                       </svg><!----><!----></div>
-                    <div _ngcontent-ppc-c3="" class="card-text d-inline-block align-middle text-left"><b
-                        _ngcontent-ppc-c3="" _msttexthash="4543474" _msthash="536">伦敦</b><br
-                        _ngcontent-ppc-c3=""><small _ngcontent-ppc-c3="" style="color:#6c757d;"><font _mstmutation="1"
+                    <div _ngcontent-ppc-c3="1" class="card-text d-inline-block align-middle text-left"><b
+                        _ngcontent-ppc-c3="1" _msttexthash="4543474" _msthash="536">伦敦</b><br
+                        _ngcontent-ppc-c3="1"><small _ngcontent-ppc-c3="1" style="color:#6c757d;"><font _mstmutation="1"
                                                                                                       _msttexthash="5366387"
                                                                                                       _msthash="537">英国</font>
                       <!----></small></div>
                   </div><!----></div><!---->
-                <div _ngcontent-ppc-c3=""><!---->
-                  <div _ngcontent-ppc-c3="">
-                    <div _ngcontent-ppc-c3="" class="card-footer">
-                      <div _ngcontent-ppc-c3="" class="row"><!---->
-                        <div _ngcontent-ppc-c3="" class="col subregion" container="body" _msttexthash="4459"
+                <div _ngcontent-ppc-c3="1"><!---->
+                  <div _ngcontent-ppc-c3="1">
+                    <div _ngcontent-ppc-c3="1" class="card-footer">
+                      <div _ngcontent-ppc-c3="1" class="row"><!---->
+                        <div _ngcontent-ppc-c3="1" class="col subregion" container="body" _msttexthash="4459"
                              _msthash="535">1
                         </div><!----></div>
                     </div>
                   </div><!----></div>
               </div>
             </div>
-            <div _ngcontent-ppc-c3="" class="col-12 col-sm-3 mb-3">
-              <div _ngcontent-ppc-c3="" class="region card" container="body">
-                <div _ngcontent-ppc-c3="" class="card-body"><!---->
-                  <div _ngcontent-ppc-c3="" class="text-center">
-                    <div _ngcontent-ppc-c3="" class="flag-wrapper"><!---->
-                      <svg _ngcontent-ppc-c3="" viewBox="0 0 640 480" width="52">
-                        <g _ngcontent-ppc-c3="" fill-rule="evenodd">
-                          <g _ngcontent-ppc-c3="" stroke-width="1pt">
-                            <path _ngcontent-ppc-c3=""
+            <div _ngcontent-ppc-c3="1" class="col-12 col-sm-3 mb-3">
+              <div _ngcontent-ppc-c3="1" class="region card" container="body">
+                <div _ngcontent-ppc-c3="1" class="card-body"><!---->
+                  <div _ngcontent-ppc-c3="1" class="text-center">
+                    <div _ngcontent-ppc-c3="1" class="flag-wrapper"><!---->
+                      <svg _ngcontent-ppc-c3="1" viewBox="0 0 640 480" width="52">
+                        <g _ngcontent-ppc-c3="1" fill-rule="evenodd">
+                          <g _ngcontent-ppc-c3="1" stroke-width="1pt">
+                            <path _ngcontent-ppc-c3="1"
                                   d="M0 0h912v36.938H0zm0 73.875h912v36.938H0zm0 73.781h912v37.031H0zm0 73.875h912v36.938H0zm0 73.875h912v36.938H0zm0 73.781h912v36.938H0zm0 73.875h912V480H0z"
                                   fill="#bd3d44"></path>
-                            <path _ngcontent-ppc-c3=""
+                            <path _ngcontent-ppc-c3="1"
                                   d="M0 36.938h912v36.937H0zm0 73.874h912v36.844H0zm0 73.782h912v36.937H0zm0 73.875h912v36.937H0zm0 73.875h912v36.937H0zm0 73.781h912v36.938H0z"
                                   fill="#fff"></path>
                           </g>
-                          <path _ngcontent-ppc-c3="" d="M0 0h364.781v258.469H0z" fill="#192f5d"></path>
-                          <path _ngcontent-ppc-c3=""
+                          <path _ngcontent-ppc-c3="1" d="M0 0h364.781v258.469H0z" fill="#192f5d"></path>
+                          <path _ngcontent-ppc-c3="1"
                                 d="M30.375 11.063L33.75 21.28h10.688l-8.626 6.282 3.282 10.312-8.719-6.375-8.625 6.281 3.281-10.218-8.718-6.282h10.874zm60.844 0L94.5 21.28h10.781l-8.719 6.282 3.282 10.312-8.625-6.375-8.719 6.281 3.281-10.218-8.625-6.282h10.688zm60.75 0l3.375 10.218h10.593l-8.625 6.282 3.282 10.312-8.719-6.375-8.625 6.281 3.281-10.218-8.719-6.282h10.782zm60.844 0l3.28 10.218h10.782l-8.719 6.282 3.375 10.312-8.719-6.375-8.718 6.281 3.375-10.218-8.719-6.282h10.687zm60.75 0l3.375 10.218h10.687L279 27.563l3.281 10.312-8.719-6.375-8.625 6.281 3.282-10.218-8.625-6.282h10.687zm60.843 0l3.281 10.218h10.782l-8.719 6.282 3.375 10.312-8.719-6.375-8.719 6.281 3.375-10.218-8.718-6.282h10.781zM60.844 36.936l3.281 10.22h10.781l-8.719 6.28 3.188 10.22-8.438-6.282-8.718 6.281 3.093-10.218-8.437-6.282h10.687zm60.75 0l3.375 10.22h10.687l-8.719 6.28 3.375 10.22-8.718-6.282-8.719 6.281 3.375-10.219-8.719-6.28h10.781zm60.843 0l3.282 10.22H196.5l-8.719 6.28 3.281 10.22-8.625-6.282-8.718 6.281L177 53.438l-8.625-6.282h10.687zm60.75 0l3.375 10.22h10.688l-8.719 6.28 3.375 10.22-8.719-6.282-8.625 6.281 3.282-10.218-8.719-6.282H240zm60.844 0l3.281 10.22h10.782l-8.719 6.28 3.281 10.22-8.625-6.282-8.719 6.281 3.282-10.218-8.625-6.282h10.687zM30.375 62.72l3.375 10.406h10.687l-8.625 6.281 3.282 10.219-8.719-6.375-8.625 6.375 3.281-10.313-8.719-6.28h10.875zm60.844 0L94.5 73.03h10.781l-8.719 6.281 3.282 10.22-8.625-6.376-8.719 6.375 3.281-10.312-8.625-6.281h10.688zm60.75 0l3.375 10.312h10.593l-8.625 6.281 3.282 10.22-8.719-6.376-8.625 6.375 3.281-10.312-8.719-6.281h10.782zm60.843 0l3.282 10.312h10.781l-8.719 6.281 3.375 10.22-8.719-6.376-8.718 6.375 3.375-10.312-8.719-6.281h10.687zm60.75 0l3.375 10.312h10.688L279 79.312l3.281 10.22-8.719-6.376-8.625 6.375 3.282-10.312-8.625-6.281h10.687zm60.844 0l3.281 10.312h10.782l-8.719 6.281 3.375 10.22-8.719-6.376-8.719 6.375 3.375-10.312-8.718-6.281h10.781zM60.844 88.594l3.281 10.219h10.781l-8.719 6.28 3.282 10.313-8.625-6.375-8.719 6.281 3.281-10.218-8.625-6.281H57.47zm60.75 0l3.375 10.219h10.687l-8.719 6.28 3.376 10.313-8.72-6.375-8.718 6.281 3.375-10.218-8.719-6.281h10.781zm60.844 0l3.28 10.219H196.5l-8.719 6.28 3.281 10.313-8.625-6.375-8.718 6.281L177 105.094l-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.28 3.281 10.313-8.719-6.375-8.625 6.281 3.282-10.218-8.719-6.281H240zm60.843 0l3.281 10.219h10.782l-8.719 6.28 3.281 10.313-8.625-6.375-8.719 6.281 3.282-10.218-8.625-6.281h10.687zM30.375 114.469l3.375 10.219h10.688l-8.625 6.28 3.28 10.313-8.718-6.375-8.625 6.281 3.281-10.218-8.718-6.281h10.875zm60.844 0l3.281 10.219h10.781l-8.719 6.28 3.282 10.22-8.625-6.282-8.719 6.281 3.281-10.218-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.594l-8.625 6.28 3.28 10.313-8.718-6.375-8.625 6.281 3.281-10.218-8.718-6.281h10.78zm60.844 0l3.28 10.219h10.782l-8.719 6.28 3.375 10.313-8.718-6.375-8.72 6.281 3.376-10.218-8.719-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.28 3.281 10.313-8.719-6.375-8.625 6.281 3.282-10.218-8.625-6.281h10.687zm60.843 0l3.281 10.219h10.782l-8.719 6.28 3.375 10.313-8.719-6.375-8.719 6.281 3.375-10.218-8.718-6.281h10.781zM60.844 140.344l3.281 10.219h10.781l-8.718 6.28 3.28 10.22-8.624-6.375-8.719 6.375 3.281-10.313-8.625-6.281H57.47zm60.75 0l3.375 10.219h10.687l-8.718 6.28 3.375 10.22-8.72-6.375-8.718 6.375 3.375-10.313-8.719-6.281h10.782zm60.844 0l3.28 10.219H196.5l-8.719 6.28 3.282 10.22-8.625-6.375-8.72 6.375L177 156.75l-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.28 3.281 10.22-8.718-6.375-8.625 6.375 3.28-10.313-8.718-6.281H240zm60.843 0l3.282 10.219h10.78l-8.718 6.28 3.281 10.22-8.625-6.375-8.718 6.375 3.28-10.313-8.624-6.281h10.687zM30.375 166.125l3.375 10.313h10.688l-8.625 6.28 3.28 10.126-8.718-6.281-8.625 6.28 3.281-10.218-8.718-6.281h10.875zm60.844 0l3.281 10.313h10.781l-8.718 6.28 3.375 10.126-8.72-6.281-8.718 6.28 3.375-10.218-8.719-6.281h10.688zm60.75 0l3.375 10.313h10.594l-8.625 6.28 3.28 10.126-8.718-6.281-8.625 6.28 3.281-10.218-8.718-6.281h10.78zm60.844 0l3.28 10.313h10.782l-8.719 6.28 3.375 10.126-8.718-6.281-8.72 6.28 3.376-10.218-8.719-6.281h10.688zm60.75 0l3.375 10.313h10.687l-8.625 6.28 3.281 10.126-8.718-6.281-8.625 6.28 3.28-10.218-8.624-6.281h10.687zm60.843 0l3.282 10.313h10.78l-8.718 6.28 3.375 10.126-8.719-6.281-8.718 6.28 3.375-10.218-8.72-6.281h10.782zM60.844 192l3.281 10.219h10.781l-8.718 6.281 3.28 10.313-8.624-6.375-8.719 6.28 3.281-10.218-8.625-6.281H57.47zm60.75 0l3.375 10.219h10.687l-8.718 6.281 3.375 10.313-8.72-6.375-8.718 6.28 3.375-10.218-8.719-6.281h10.782zm60.844 0l3.28 10.219H196.5l-8.719 6.281 3.282 10.313-8.625-6.375-8.72 6.28L177 208.5l-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.281 3.281 10.313-8.718-6.375-8.625 6.28 3.28-10.218-8.718-6.281H240zm60.843 0l3.282 10.219h10.78l-8.718 6.281 3.281 10.313-8.625-6.375-8.718 6.28 3.28-10.218-8.624-6.281h10.687zM30.375 217.875l3.375 10.219h10.688l-8.625 6.281 3.28 10.219-8.718-6.281-8.625 6.28 3.281-10.312L16.313 228h10.875zm60.844 0l3.281 10.219h10.781l-8.718 6.281 3.375 10.219-8.72-6.281-8.718 6.28 3.375-10.312L77.156 228h10.688zm60.75 0l3.375 10.219h10.594l-8.438 6.281 3.281 10.219-8.718-6.281-8.625 6.28 3.28-10.312L138 228h10.781zm60.844 0l3.28 10.219h10.782l-8.719 6.281 3.375 10.219-8.718-6.281-8.72 6.28 3.376-10.312L198.75 228h10.688zm60.75 0l3.375 10.219h10.687L279 234.375l3.281 10.219-8.718-6.281-8.625 6.28 3.28-10.312-8.624-6.281h10.687zm60.843 0l3.282 10.219h10.78l-8.718 6.281 3.375 10.219-8.719-6.281-8.718 6.28 3.375-10.312-8.72-6.281h10.782z"
                                 fill="#fff"></path>
                         </g>
                       </svg><!----><!----><!----></div>
-                    <div _ngcontent-ppc-c3="" class="card-text d-inline-block align-middle text-left"><b
-                        _ngcontent-ppc-c3="" _msttexthash="8884655" _msthash="533">洛杉矶</b><br
-                        _ngcontent-ppc-c3=""><small _ngcontent-ppc-c3="" style="color:#6c757d;"><font _mstmutation="1"
+                    <div _ngcontent-ppc-c3="1" class="card-text d-inline-block align-middle text-left"><b
+                        _ngcontent-ppc-c3="1" _msttexthash="8884655" _msthash="533">洛杉矶</b><br
+                        _ngcontent-ppc-c3="1"><small _ngcontent-ppc-c3="1" style="color:#6c757d;"><font _mstmutation="1"
                                                                                                       _msttexthash="14228253"
                                                                                                       _msthash="534">美国西部</font>
-                      <!----><i _ngcontent-ppc-c3="" class="material-icons info-icon" container="body"
+                      <!----><i _ngcontent-ppc-c3="1" class="material-icons info-icon" container="body"
                                 tooltip="Asia Optimized Routes" _msttexthash="209989" _msthash="532">info_outline</i>
                       <!----></small></div>
                   </div><!----></div><!---->
-                <div _ngcontent-ppc-c3=""><!---->
-                  <div _ngcontent-ppc-c3="">
-                    <div _ngcontent-ppc-c3="" class="card-footer">
-                      <div _ngcontent-ppc-c3="" class="row"><!---->
-                        <div _ngcontent-ppc-c3="" class="col subregion" container="body" _msttexthash="4459"
+                <div _ngcontent-ppc-c3="1"><!---->
+                  <div _ngcontent-ppc-c3="1">
+                    <div _ngcontent-ppc-c3="1" class="card-footer">
+                      <div _ngcontent-ppc-c3="1" class="row"><!---->
+                        <div _ngcontent-ppc-c3="1" class="col subregion" container="body" _msttexthash="4459"
                              _msthash="531">1
                         </div><!----></div>
                     </div>
                   </div><!----></div>
               </div>
             </div>
-            <div _ngcontent-ppc-c3="" class="col-12 col-sm-3 mb-3">
-              <div _ngcontent-ppc-c3="" class="region card" container="body">
-                <div _ngcontent-ppc-c3="" class="card-body"><!---->
-                  <div _ngcontent-ppc-c3="" class="text-center">
-                    <div _ngcontent-ppc-c3="" class="flag-wrapper"><!---->
-                      <svg _ngcontent-ppc-c3="" viewBox="0 0 640 480" width="52">
-                        <g _ngcontent-ppc-c3="" fill-rule="evenodd">
-                          <g _ngcontent-ppc-c3="" stroke-width="1pt">
-                            <path _ngcontent-ppc-c3=""
+            <div _ngcontent-ppc-c3="1" class="col-12 col-sm-3 mb-3">
+              <div _ngcontent-ppc-c3="1" class="region card" container="body">
+                <div _ngcontent-ppc-c3="1" class="card-body"><!---->
+                  <div _ngcontent-ppc-c3="1" class="text-center">
+                    <div _ngcontent-ppc-c3="1" class="flag-wrapper"><!---->
+                      <svg _ngcontent-ppc-c3="1" viewBox="0 0 640 480" width="52">
+                        <g _ngcontent-ppc-c3="1" fill-rule="evenodd">
+                          <g _ngcontent-ppc-c3="1" stroke-width="1pt">
+                            <path _ngcontent-ppc-c3="1"
                                   d="M0 0h912v36.938H0zm0 73.875h912v36.938H0zm0 73.781h912v37.031H0zm0 73.875h912v36.938H0zm0 73.875h912v36.938H0zm0 73.781h912v36.938H0zm0 73.875h912V480H0z"
                                   fill="#bd3d44"></path>
-                            <path _ngcontent-ppc-c3=""
+                            <path _ngcontent-ppc-c3="1"
                                   d="M0 36.938h912v36.937H0zm0 73.874h912v36.844H0zm0 73.782h912v36.937H0zm0 73.875h912v36.937H0zm0 73.875h912v36.937H0zm0 73.781h912v36.938H0z"
                                   fill="#fff"></path>
                           </g>
-                          <path _ngcontent-ppc-c3="" d="M0 0h364.781v258.469H0z" fill="#192f5d"></path>
-                          <path _ngcontent-ppc-c3=""
+                          <path _ngcontent-ppc-c3="1" d="M0 0h364.781v258.469H0z" fill="#192f5d"></path>
+                          <path _ngcontent-ppc-c3="1"
                                 d="M30.375 11.063L33.75 21.28h10.688l-8.626 6.282 3.282 10.312-8.719-6.375-8.625 6.281 3.281-10.218-8.718-6.282h10.874zm60.844 0L94.5 21.28h10.781l-8.719 6.282 3.282 10.312-8.625-6.375-8.719 6.281 3.281-10.218-8.625-6.282h10.688zm60.75 0l3.375 10.218h10.593l-8.625 6.282 3.282 10.312-8.719-6.375-8.625 6.281 3.281-10.218-8.719-6.282h10.782zm60.844 0l3.28 10.218h10.782l-8.719 6.282 3.375 10.312-8.719-6.375-8.718 6.281 3.375-10.218-8.719-6.282h10.687zm60.75 0l3.375 10.218h10.687L279 27.563l3.281 10.312-8.719-6.375-8.625 6.281 3.282-10.218-8.625-6.282h10.687zm60.843 0l3.281 10.218h10.782l-8.719 6.282 3.375 10.312-8.719-6.375-8.719 6.281 3.375-10.218-8.718-6.282h10.781zM60.844 36.936l3.281 10.22h10.781l-8.719 6.28 3.188 10.22-8.438-6.282-8.718 6.281 3.093-10.218-8.437-6.282h10.687zm60.75 0l3.375 10.22h10.687l-8.719 6.28 3.375 10.22-8.718-6.282-8.719 6.281 3.375-10.219-8.719-6.28h10.781zm60.843 0l3.282 10.22H196.5l-8.719 6.28 3.281 10.22-8.625-6.282-8.718 6.281L177 53.438l-8.625-6.282h10.687zm60.75 0l3.375 10.22h10.688l-8.719 6.28 3.375 10.22-8.719-6.282-8.625 6.281 3.282-10.218-8.719-6.282H240zm60.844 0l3.281 10.22h10.782l-8.719 6.28 3.281 10.22-8.625-6.282-8.719 6.281 3.282-10.218-8.625-6.282h10.687zM30.375 62.72l3.375 10.406h10.687l-8.625 6.281 3.282 10.219-8.719-6.375-8.625 6.375 3.281-10.313-8.719-6.28h10.875zm60.844 0L94.5 73.03h10.781l-8.719 6.281 3.282 10.22-8.625-6.376-8.719 6.375 3.281-10.312-8.625-6.281h10.688zm60.75 0l3.375 10.312h10.593l-8.625 6.281 3.282 10.22-8.719-6.376-8.625 6.375 3.281-10.312-8.719-6.281h10.782zm60.843 0l3.282 10.312h10.781l-8.719 6.281 3.375 10.22-8.719-6.376-8.718 6.375 3.375-10.312-8.719-6.281h10.687zm60.75 0l3.375 10.312h10.688L279 79.312l3.281 10.22-8.719-6.376-8.625 6.375 3.282-10.312-8.625-6.281h10.687zm60.844 0l3.281 10.312h10.782l-8.719 6.281 3.375 10.22-8.719-6.376-8.719 6.375 3.375-10.312-8.718-6.281h10.781zM60.844 88.594l3.281 10.219h10.781l-8.719 6.28 3.282 10.313-8.625-6.375-8.719 6.281 3.281-10.218-8.625-6.281H57.47zm60.75 0l3.375 10.219h10.687l-8.719 6.28 3.376 10.313-8.72-6.375-8.718 6.281 3.375-10.218-8.719-6.281h10.781zm60.844 0l3.28 10.219H196.5l-8.719 6.28 3.281 10.313-8.625-6.375-8.718 6.281L177 105.094l-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.28 3.281 10.313-8.719-6.375-8.625 6.281 3.282-10.218-8.719-6.281H240zm60.843 0l3.281 10.219h10.782l-8.719 6.28 3.281 10.313-8.625-6.375-8.719 6.281 3.282-10.218-8.625-6.281h10.687zM30.375 114.469l3.375 10.219h10.688l-8.625 6.28 3.28 10.313-8.718-6.375-8.625 6.281 3.281-10.218-8.718-6.281h10.875zm60.844 0l3.281 10.219h10.781l-8.719 6.28 3.282 10.22-8.625-6.282-8.719 6.281 3.281-10.218-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.594l-8.625 6.28 3.28 10.313-8.718-6.375-8.625 6.281 3.281-10.218-8.718-6.281h10.78zm60.844 0l3.28 10.219h10.782l-8.719 6.28 3.375 10.313-8.718-6.375-8.72 6.281 3.376-10.218-8.719-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.28 3.281 10.313-8.719-6.375-8.625 6.281 3.282-10.218-8.625-6.281h10.687zm60.843 0l3.281 10.219h10.782l-8.719 6.28 3.375 10.313-8.719-6.375-8.719 6.281 3.375-10.218-8.718-6.281h10.781zM60.844 140.344l3.281 10.219h10.781l-8.718 6.28 3.28 10.22-8.624-6.375-8.719 6.375 3.281-10.313-8.625-6.281H57.47zm60.75 0l3.375 10.219h10.687l-8.718 6.28 3.375 10.22-8.72-6.375-8.718 6.375 3.375-10.313-8.719-6.281h10.782zm60.844 0l3.28 10.219H196.5l-8.719 6.28 3.282 10.22-8.625-6.375-8.72 6.375L177 156.75l-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.28 3.281 10.22-8.718-6.375-8.625 6.375 3.28-10.313-8.718-6.281H240zm60.843 0l3.282 10.219h10.78l-8.718 6.28 3.281 10.22-8.625-6.375-8.718 6.375 3.28-10.313-8.624-6.281h10.687zM30.375 166.125l3.375 10.313h10.688l-8.625 6.28 3.28 10.126-8.718-6.281-8.625 6.28 3.281-10.218-8.718-6.281h10.875zm60.844 0l3.281 10.313h10.781l-8.718 6.28 3.375 10.126-8.72-6.281-8.718 6.28 3.375-10.218-8.719-6.281h10.688zm60.75 0l3.375 10.313h10.594l-8.625 6.28 3.28 10.126-8.718-6.281-8.625 6.28 3.281-10.218-8.718-6.281h10.78zm60.844 0l3.28 10.313h10.782l-8.719 6.28 3.375 10.126-8.718-6.281-8.72 6.28 3.376-10.218-8.719-6.281h10.688zm60.75 0l3.375 10.313h10.687l-8.625 6.28 3.281 10.126-8.718-6.281-8.625 6.28 3.28-10.218-8.624-6.281h10.687zm60.843 0l3.282 10.313h10.78l-8.718 6.28 3.375 10.126-8.719-6.281-8.718 6.28 3.375-10.218-8.72-6.281h10.782zM60.844 192l3.281 10.219h10.781l-8.718 6.281 3.28 10.313-8.624-6.375-8.719 6.28 3.281-10.218-8.625-6.281H57.47zm60.75 0l3.375 10.219h10.687l-8.718 6.281 3.375 10.313-8.72-6.375-8.718 6.28 3.375-10.218-8.719-6.281h10.782zm60.844 0l3.28 10.219H196.5l-8.719 6.281 3.282 10.313-8.625-6.375-8.72 6.28L177 208.5l-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.281 3.281 10.313-8.718-6.375-8.625 6.28 3.28-10.218-8.718-6.281H240zm60.843 0l3.282 10.219h10.78l-8.718 6.281 3.281 10.313-8.625-6.375-8.718 6.28 3.28-10.218-8.624-6.281h10.687zM30.375 217.875l3.375 10.219h10.688l-8.625 6.281 3.28 10.219-8.718-6.281-8.625 6.28 3.281-10.312L16.313 228h10.875zm60.844 0l3.281 10.219h10.781l-8.718 6.281 3.375 10.219-8.72-6.281-8.718 6.28 3.375-10.312L77.156 228h10.688zm60.75 0l3.375 10.219h10.594l-8.438 6.281 3.281 10.219-8.718-6.281-8.625 6.28 3.28-10.312L138 228h10.781zm60.844 0l3.28 10.219h10.782l-8.719 6.281 3.375 10.219-8.718-6.281-8.72 6.28 3.376-10.312L198.75 228h10.688zm60.75 0l3.375 10.219h10.687L279 234.375l3.281 10.219-8.718-6.281-8.625 6.28 3.28-10.312-8.624-6.281h10.687zm60.843 0l3.282 10.219h10.78l-8.718 6.281 3.375 10.219-8.719-6.281-8.718 6.28 3.375-10.312-8.72-6.281h10.782z"
                                 fill="#fff"></path>
                         </g>
                       </svg><!----><!----><!----></div>
-                    <div _ngcontent-ppc-c3="" class="card-text d-inline-block align-middle text-left"><b
-                        _ngcontent-ppc-c3="" _msttexthash="7785336" _msthash="529">芝加哥</b><br
-                        _ngcontent-ppc-c3=""><small _ngcontent-ppc-c3="" style="color:#6c757d;"><font _mstmutation="1"
+                    <div _ngcontent-ppc-c3="1" class="card-text d-inline-block align-middle text-left"><b
+                        _ngcontent-ppc-c3="1" _msttexthash="7785336" _msthash="529">芝加哥</b><br
+                        _ngcontent-ppc-c3="1"><small _ngcontent-ppc-c3="1" style="color:#6c757d;"><font _mstmutation="1"
                                                                                                       _msttexthash="12449502"
                                                                                                       _msthash="530">美国东部</font>
                       <!----></small></div>
                   </div><!----></div><!---->
-                <div _ngcontent-ppc-c3=""><!---->
-                  <div _ngcontent-ppc-c3="">
-                    <div _ngcontent-ppc-c3="" class="card-footer">
-                      <div _ngcontent-ppc-c3="" class="row"><!---->
-                        <div _ngcontent-ppc-c3="" class="col subregion" container="body" _msttexthash="4459"
+                <div _ngcontent-ppc-c3="1"><!---->
+                  <div _ngcontent-ppc-c3="1">
+                    <div _ngcontent-ppc-c3="1" class="card-footer">
+                      <div _ngcontent-ppc-c3="1" class="row"><!---->
+                        <div _ngcontent-ppc-c3="1" class="col subregion" container="body" _msttexthash="4459"
                              _msthash="528">1
                         </div><!----></div>
                     </div>
                   </div><!----></div>
               </div>
             </div>
-            <div _ngcontent-ppc-c3="" class="col-12 col-sm-3 mb-3">
-              <div _ngcontent-ppc-c3="" class="region card" container="body">
-                <div _ngcontent-ppc-c3="" class="card-body"><!---->
-                  <div _ngcontent-ppc-c3="" class="text-center">
-                    <div _ngcontent-ppc-c3="" class="flag-wrapper"><!---->
-                      <svg _ngcontent-ppc-c3="" viewBox="0 0 640 480" width="52">
-                        <g _ngcontent-ppc-c3="" fill-rule="evenodd">
-                          <g _ngcontent-ppc-c3="" stroke-width="1pt">
-                            <path _ngcontent-ppc-c3=""
+            <div _ngcontent-ppc-c3="1" class="col-12 col-sm-3 mb-3">
+              <div _ngcontent-ppc-c3="1" class="region card" container="body">
+                <div _ngcontent-ppc-c3="1" class="card-body"><!---->
+                  <div _ngcontent-ppc-c3="1" class="text-center">
+                    <div _ngcontent-ppc-c3="1" class="flag-wrapper"><!---->
+                      <svg _ngcontent-ppc-c3="1" viewBox="0 0 640 480" width="52">
+                        <g _ngcontent-ppc-c3="1" fill-rule="evenodd">
+                          <g _ngcontent-ppc-c3="1" stroke-width="1pt">
+                            <path _ngcontent-ppc-c3="1"
                                   d="M0 0h912v36.938H0zm0 73.875h912v36.938H0zm0 73.781h912v37.031H0zm0 73.875h912v36.938H0zm0 73.875h912v36.938H0zm0 73.781h912v36.938H0zm0 73.875h912V480H0z"
                                   fill="#bd3d44"></path>
-                            <path _ngcontent-ppc-c3=""
+                            <path _ngcontent-ppc-c3="1"
                                   d="M0 36.938h912v36.937H0zm0 73.874h912v36.844H0zm0 73.782h912v36.937H0zm0 73.875h912v36.937H0zm0 73.875h912v36.937H0zm0 73.781h912v36.938H0z"
                                   fill="#fff"></path>
                           </g>
-                          <path _ngcontent-ppc-c3="" d="M0 0h364.781v258.469H0z" fill="#192f5d"></path>
-                          <path _ngcontent-ppc-c3=""
+                          <path _ngcontent-ppc-c3="1" d="M0 0h364.781v258.469H0z" fill="#192f5d"></path>
+                          <path _ngcontent-ppc-c3="1"
                                 d="M30.375 11.063L33.75 21.28h10.688l-8.626 6.282 3.282 10.312-8.719-6.375-8.625 6.281 3.281-10.218-8.718-6.282h10.874zm60.844 0L94.5 21.28h10.781l-8.719 6.282 3.282 10.312-8.625-6.375-8.719 6.281 3.281-10.218-8.625-6.282h10.688zm60.75 0l3.375 10.218h10.593l-8.625 6.282 3.282 10.312-8.719-6.375-8.625 6.281 3.281-10.218-8.719-6.282h10.782zm60.844 0l3.28 10.218h10.782l-8.719 6.282 3.375 10.312-8.719-6.375-8.718 6.281 3.375-10.218-8.719-6.282h10.687zm60.75 0l3.375 10.218h10.687L279 27.563l3.281 10.312-8.719-6.375-8.625 6.281 3.282-10.218-8.625-6.282h10.687zm60.843 0l3.281 10.218h10.782l-8.719 6.282 3.375 10.312-8.719-6.375-8.719 6.281 3.375-10.218-8.718-6.282h10.781zM60.844 36.936l3.281 10.22h10.781l-8.719 6.28 3.188 10.22-8.438-6.282-8.718 6.281 3.093-10.218-8.437-6.282h10.687zm60.75 0l3.375 10.22h10.687l-8.719 6.28 3.375 10.22-8.718-6.282-8.719 6.281 3.375-10.219-8.719-6.28h10.781zm60.843 0l3.282 10.22H196.5l-8.719 6.28 3.281 10.22-8.625-6.282-8.718 6.281L177 53.438l-8.625-6.282h10.687zm60.75 0l3.375 10.22h10.688l-8.719 6.28 3.375 10.22-8.719-6.282-8.625 6.281 3.282-10.218-8.719-6.282H240zm60.844 0l3.281 10.22h10.782l-8.719 6.28 3.281 10.22-8.625-6.282-8.719 6.281 3.282-10.218-8.625-6.282h10.687zM30.375 62.72l3.375 10.406h10.687l-8.625 6.281 3.282 10.219-8.719-6.375-8.625 6.375 3.281-10.313-8.719-6.28h10.875zm60.844 0L94.5 73.03h10.781l-8.719 6.281 3.282 10.22-8.625-6.376-8.719 6.375 3.281-10.312-8.625-6.281h10.688zm60.75 0l3.375 10.312h10.593l-8.625 6.281 3.282 10.22-8.719-6.376-8.625 6.375 3.281-10.312-8.719-6.281h10.782zm60.843 0l3.282 10.312h10.781l-8.719 6.281 3.375 10.22-8.719-6.376-8.718 6.375 3.375-10.312-8.719-6.281h10.687zm60.75 0l3.375 10.312h10.688L279 79.312l3.281 10.22-8.719-6.376-8.625 6.375 3.282-10.312-8.625-6.281h10.687zm60.844 0l3.281 10.312h10.782l-8.719 6.281 3.375 10.22-8.719-6.376-8.719 6.375 3.375-10.312-8.718-6.281h10.781zM60.844 88.594l3.281 10.219h10.781l-8.719 6.28 3.282 10.313-8.625-6.375-8.719 6.281 3.281-10.218-8.625-6.281H57.47zm60.75 0l3.375 10.219h10.687l-8.719 6.28 3.376 10.313-8.72-6.375-8.718 6.281 3.375-10.218-8.719-6.281h10.781zm60.844 0l3.28 10.219H196.5l-8.719 6.28 3.281 10.313-8.625-6.375-8.718 6.281L177 105.094l-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.28 3.281 10.313-8.719-6.375-8.625 6.281 3.282-10.218-8.719-6.281H240zm60.843 0l3.281 10.219h10.782l-8.719 6.28 3.281 10.313-8.625-6.375-8.719 6.281 3.282-10.218-8.625-6.281h10.687zM30.375 114.469l3.375 10.219h10.688l-8.625 6.28 3.28 10.313-8.718-6.375-8.625 6.281 3.281-10.218-8.718-6.281h10.875zm60.844 0l3.281 10.219h10.781l-8.719 6.28 3.282 10.22-8.625-6.282-8.719 6.281 3.281-10.218-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.594l-8.625 6.28 3.28 10.313-8.718-6.375-8.625 6.281 3.281-10.218-8.718-6.281h10.78zm60.844 0l3.28 10.219h10.782l-8.719 6.28 3.375 10.313-8.718-6.375-8.72 6.281 3.376-10.218-8.719-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.28 3.281 10.313-8.719-6.375-8.625 6.281 3.282-10.218-8.625-6.281h10.687zm60.843 0l3.281 10.219h10.782l-8.719 6.28 3.375 10.313-8.719-6.375-8.719 6.281 3.375-10.218-8.718-6.281h10.781zM60.844 140.344l3.281 10.219h10.781l-8.718 6.28 3.28 10.22-8.624-6.375-8.719 6.375 3.281-10.313-8.625-6.281H57.47zm60.75 0l3.375 10.219h10.687l-8.718 6.28 3.375 10.22-8.72-6.375-8.718 6.375 3.375-10.313-8.719-6.281h10.782zm60.844 0l3.28 10.219H196.5l-8.719 6.28 3.282 10.22-8.625-6.375-8.72 6.375L177 156.75l-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.28 3.281 10.22-8.718-6.375-8.625 6.375 3.28-10.313-8.718-6.281H240zm60.843 0l3.282 10.219h10.78l-8.718 6.28 3.281 10.22-8.625-6.375-8.718 6.375 3.28-10.313-8.624-6.281h10.687zM30.375 166.125l3.375 10.313h10.688l-8.625 6.28 3.28 10.126-8.718-6.281-8.625 6.28 3.281-10.218-8.718-6.281h10.875zm60.844 0l3.281 10.313h10.781l-8.718 6.28 3.375 10.126-8.72-6.281-8.718 6.28 3.375-10.218-8.719-6.281h10.688zm60.75 0l3.375 10.313h10.594l-8.625 6.28 3.28 10.126-8.718-6.281-8.625 6.28 3.281-10.218-8.718-6.281h10.78zm60.844 0l3.28 10.313h10.782l-8.719 6.28 3.375 10.126-8.718-6.281-8.72 6.28 3.376-10.218-8.719-6.281h10.688zm60.75 0l3.375 10.313h10.687l-8.625 6.28 3.281 10.126-8.718-6.281-8.625 6.28 3.28-10.218-8.624-6.281h10.687zm60.843 0l3.282 10.313h10.78l-8.718 6.28 3.375 10.126-8.719-6.281-8.718 6.28 3.375-10.218-8.72-6.281h10.782zM60.844 192l3.281 10.219h10.781l-8.718 6.281 3.28 10.313-8.624-6.375-8.719 6.28 3.281-10.218-8.625-6.281H57.47zm60.75 0l3.375 10.219h10.687l-8.718 6.281 3.375 10.313-8.72-6.375-8.718 6.28 3.375-10.218-8.719-6.281h10.782zm60.844 0l3.28 10.219H196.5l-8.719 6.281 3.282 10.313-8.625-6.375-8.72 6.28L177 208.5l-8.625-6.281h10.688zm60.75 0l3.375 10.219h10.687l-8.625 6.281 3.281 10.313-8.718-6.375-8.625 6.28 3.28-10.218-8.718-6.281H240zm60.843 0l3.282 10.219h10.78l-8.718 6.281 3.281 10.313-8.625-6.375-8.718 6.28 3.28-10.218-8.624-6.281h10.687zM30.375 217.875l3.375 10.219h10.688l-8.625 6.281 3.28 10.219-8.718-6.281-8.625 6.28 3.281-10.312L16.313 228h10.875zm60.844 0l3.281 10.219h10.781l-8.718 6.281 3.375 10.219-8.72-6.281-8.718 6.28 3.375-10.312L77.156 228h10.688zm60.75 0l3.375 10.219h10.594l-8.438 6.281 3.281 10.219-8.718-6.281-8.625 6.28 3.28-10.312L138 228h10.781zm60.844 0l3.28 10.219h10.782l-8.719 6.281 3.375 10.219-8.718-6.281-8.72 6.28 3.376-10.312L198.75 228h10.688zm60.75 0l3.375 10.219h10.687L279 234.375l3.281 10.219-8.718-6.281-8.625 6.28 3.28-10.312-8.624-6.281h10.687zm60.843 0l3.282 10.219h10.78l-8.718 6.281 3.375 10.219-8.719-6.281-8.718 6.28 3.375-10.312-8.72-6.281h10.782z"
                                 fill="#fff"></path>
                         </g>
                       </svg><!----><!----><!----></div>
-                    <div _ngcontent-ppc-c3="" class="card-text d-inline-block align-middle text-left"><b
-                        _ngcontent-ppc-c3="" _msttexthash="9024301" _msthash="526">达拉斯</b><br
-                        _ngcontent-ppc-c3=""><small _ngcontent-ppc-c3="" style="color:#6c757d;"><font _mstmutation="1"
+                    <div _ngcontent-ppc-c3="1" class="card-text d-inline-block align-middle text-left"><b
+                        _ngcontent-ppc-c3="1" _msttexthash="9024301" _msthash="526">达拉斯</b><br
+                        _ngcontent-ppc-c3="1"><small _ngcontent-ppc-c3="1" style="color:#6c757d;"><font _mstmutation="1"
                                                                                                       _msttexthash="12606165"
                                                                                                       _msthash="527">美国南部</font>
                       <!----></small></div>
                   </div><!----></div><!---->
-                <div _ngcontent-ppc-c3=""><!---->
-                  <div _ngcontent-ppc-c3="">
-                    <div _ngcontent-ppc-c3="" class="card-footer">
-                      <div _ngcontent-ppc-c3="" class="row"><!---->
-                        <div _ngcontent-ppc-c3="" class="col subregion" container="body" _msttexthash="4459"
+                <div _ngcontent-ppc-c3="1"><!---->
+                  <div _ngcontent-ppc-c3="1">
+                    <div _ngcontent-ppc-c3="1" class="card-footer">
+                      <div _ngcontent-ppc-c3="1" class="row"><!---->
+                        <div _ngcontent-ppc-c3="1" class="col subregion" container="body" _msttexthash="4459"
                              _msthash="525">1
                         </div><!----></div>
                     </div>
@@ -481,190 +481,190 @@
             </div>
           </div>
         </div>
-        <div _ngcontent-ppc-c3="" class="mb-5">
-          <div _ngcontent-ppc-c3="" class="row mb-3">
-            <div _ngcontent-ppc-c3="" class="col"><h4 _ngcontent-ppc-c3="" _msttexthash="12744927" _msthash="553">
+        <div _ngcontent-ppc-c3="1" class="mb-5">
+          <div _ngcontent-ppc-c3="1" class="row mb-3">
+            <div _ngcontent-ppc-c3="1" class="col"><h4 _ngcontent-ppc-c3="1" _msttexthash="12744927" _msthash="553">
               选择尺码</h4>
-              <ul _ngcontent-ppc-c3=""><!----><!----><!----></ul>
+              <ul _ngcontent-ppc-c3="1"><!----><!----><!----></ul>
             </div>
           </div>
-          <app-server-size _ngcontent-ppc-c3="" _nghost-ppc-c5=""><!---->
-            <div _ngcontent-ppc-c5="">
-              <div _ngcontent-ppc-c5="" class="row mb-3">
-                <div _ngcontent-ppc-c5="" class="col">
-                  <ul _ngcontent-ppc-c5="" class="nav-images nav nav-pills"><!---->
-                    <li _ngcontent-ppc-c5="" class="nav-item"><a _ngcontent-ppc-c5="" class="nav-link active" 
+          <app-server-size _ngcontent-ppc-c3="1" _nghost-ppc-c5="1"><!---->
+            <div _ngcontent-ppc-c5="1">
+              <div _ngcontent-ppc-c5="1" class="row mb-3">
+                <div _ngcontent-ppc-c5="1" class="col">
+                  <ul _ngcontent-ppc-c5="1" class="nav-images nav nav-pills"><!---->
+                    <li _ngcontent-ppc-c5="1" class="nav-item"><a _ngcontent-ppc-c5="1" class="nav-link active" 
                                                                  _msttexthash="4600557" _msthash="523">标准</a></li>
                   </ul>
                 </div>
               </div>
-              <div _ngcontent-ppc-c5="" class="row mb-3 text-muted">
-                <div _ngcontent-ppc-c5="" class="col" _msttexthash="7058181" _msthash="524"> Fast SSD KVM virtual
+              <div _ngcontent-ppc-c5="1" class="row mb-3 text-muted">
+                <div _ngcontent-ppc-c5="1" class="col" _msttexthash="7058181" _msthash="524"> Fast SSD KVM virtual
                   machines with a mix of compute resources and dedicated memory for a variety of applications.
                 </div>
               </div>
-              <div _ngcontent-ppc-c5="" class="row mb-3"><!---->
-                <div _ngcontent-ppc-c5="" class="col-12 col-sm-3 mb-3">
-                  <div _ngcontent-ppc-c5="" class="size card active">
-                    <div _ngcontent-ppc-c5="" class="card-body">
-                      <div _ngcontent-ppc-c5="" class="card-text">
-                        <div _ngcontent-ppc-c5="" class="cost-mo"><span _ngcontent-ppc-c5=""
+              <div _ngcontent-ppc-c5="1" class="row mb-3"><!---->
+                <div _ngcontent-ppc-c5="1" class="col-12 col-sm-3 mb-3">
+                  <div _ngcontent-ppc-c5="1" class="size card active">
+                    <div _ngcontent-ppc-c5="1" class="card-body">
+                      <div _ngcontent-ppc-c5="1" class="card-text">
+                        <div _ngcontent-ppc-c5="1" class="cost-mo"><span _ngcontent-ppc-c5="1"
                                                                         class="dollar">$</span><span
-                            _ngcontent-ppc-c5="" class="price" _msttexthash="9555" _msthash="518">11</span><span
-                            _ngcontent-ppc-c5="" class="period" _msttexthash="28600" _msthash="519">/mo</span></div>
-                        <div _ngcontent-ppc-c5="" class="cost-hr" _msttexthash="133679" _msthash="520"> $0.018/hour
+                            _ngcontent-ppc-c5="1" class="price" _msttexthash="9555" _msthash="518">11</span><span
+                            _ngcontent-ppc-c5="1" class="period" _msttexthash="28600" _msthash="519">/mo</span></div>
+                        <div _ngcontent-ppc-c5="1" class="cost-hr" _msttexthash="133679" _msthash="520"> $0.018/hour
                         </div>
                       </div>
                     </div>
-                    <div _ngcontent-ppc-c5="" class="card-footer">
-                      <div _ngcontent-ppc-c5="" class="spec"><!---->
-                        <div _ngcontent-ppc-c5=""><font _mstmutation="1" _msttexthash="72124" _msthash="521">1 GB / 1
-                          <span _ngcontent-ppc-c5="" _mstmutation="1">CPU</span></font><!----></div>
-                        <div _ngcontent-ppc-c5="" _msttexthash="92521" _msthash="522">1x25GB SSD</div><!---->
-                        <div _ngcontent-ppc-c5="" _msttexthash="354822" _msthash="487">Unlimited transfer</div><!---->
+                    <div _ngcontent-ppc-c5="1" class="card-footer">
+                      <div _ngcontent-ppc-c5="1" class="spec"><!---->
+                        <div _ngcontent-ppc-c5="1"><font _mstmutation="1" _msttexthash="72124" _msthash="521">1 GB / 1
+                          <span _ngcontent-ppc-c5="1" _mstmutation="1">CPU</span></font><!----></div>
+                        <div _ngcontent-ppc-c5="1" _msttexthash="92521" _msthash="522">1x25GB SSD</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="354822" _msthash="487">Unlimited transfer</div><!---->
                         <!----></div>
                     </div>
                   </div>
                 </div>
-                <div _ngcontent-ppc-c5="" class="col-12 col-sm-3 mb-3">
-                  <div _ngcontent-ppc-c5="" class="size card">
-                    <div _ngcontent-ppc-c5="" class="card-body">
-                      <div _ngcontent-ppc-c5="" class="card-text">
-                        <div _ngcontent-ppc-c5="" class="cost-mo"><span _ngcontent-ppc-c5=""
+                <div _ngcontent-ppc-c5="1" class="col-12 col-sm-3 mb-3">
+                  <div _ngcontent-ppc-c5="1" class="size card">
+                    <div _ngcontent-ppc-c5="1" class="card-body">
+                      <div _ngcontent-ppc-c5="1" class="card-text">
+                        <div _ngcontent-ppc-c5="1" class="cost-mo"><span _ngcontent-ppc-c5="1"
                                                                         class="dollar">$</span><span
-                            _ngcontent-ppc-c5="" class="price" _msttexthash="9750" _msthash="513">22</span><span
-                            _ngcontent-ppc-c5="" class="period" _msttexthash="28600" _msthash="514">/mo</span></div>
-                        <div _ngcontent-ppc-c5="" class="cost-hr" _msttexthash="133653" _msthash="515"> $0.036/hour
+                            _ngcontent-ppc-c5="1" class="price" _msttexthash="9750" _msthash="513">22</span><span
+                            _ngcontent-ppc-c5="1" class="period" _msttexthash="28600" _msthash="514">/mo</span></div>
+                        <div _ngcontent-ppc-c5="1" class="cost-hr" _msttexthash="133653" _msthash="515"> $0.036/hour
                         </div>
                       </div>
                     </div>
-                    <div _ngcontent-ppc-c5="" class="card-footer">
-                      <div _ngcontent-ppc-c5="" class="spec"><!---->
-                        <div _ngcontent-ppc-c5=""><font _mstmutation="1" _msttexthash="94783" _msthash="516">2 GB / 2
-                          <span _ngcontent-ppc-c5="" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5=""
+                    <div _ngcontent-ppc-c5="1" class="card-footer">
+                      <div _ngcontent-ppc-c5="1" class="spec"><!---->
+                        <div _ngcontent-ppc-c5="1"><font _mstmutation="1" _msttexthash="94783" _msthash="516">2 GB / 2
+                          <span _ngcontent-ppc-c5="1" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5="1"
                                                                                       _mstmutation="1">s</span></font>
                           <!----></div>
-                        <div _ngcontent-ppc-c5="" _msttexthash="92222" _msthash="517">1x50GB SSD</div><!---->
-                        <div _ngcontent-ppc-c5="" _msttexthash="354822" _msthash="486">Unlimited transfer</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="92222" _msthash="517">1x50GB SSD</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="354822" _msthash="486">Unlimited transfer</div><!---->
                         <!----></div>
                     </div>
                   </div>
                 </div>
-                <div _ngcontent-ppc-c5="" class="col-12 col-sm-3 mb-3">
-                  <div _ngcontent-ppc-c5="" class="size card">
-                    <div _ngcontent-ppc-c5="" class="card-body">
-                      <div _ngcontent-ppc-c5="" class="card-text">
-                        <div _ngcontent-ppc-c5="" class="cost-mo"><span _ngcontent-ppc-c5=""
+                <div _ngcontent-ppc-c5="1" class="col-12 col-sm-3 mb-3">
+                  <div _ngcontent-ppc-c5="1" class="size card">
+                    <div _ngcontent-ppc-c5="1" class="card-body">
+                      <div _ngcontent-ppc-c5="1" class="card-text">
+                        <div _ngcontent-ppc-c5="1" class="cost-mo"><span _ngcontent-ppc-c5="1"
                                                                         class="dollar">$</span><span
-                            _ngcontent-ppc-c5="" class="price" _msttexthash="10140" _msthash="508">44</span><span
-                            _ngcontent-ppc-c5="" class="period" _msttexthash="28600" _msthash="509">/mo</span></div>
-                        <div _ngcontent-ppc-c5="" class="cost-hr" _msttexthash="133601" _msthash="510"> $0.072/hour
+                            _ngcontent-ppc-c5="1" class="price" _msttexthash="10140" _msthash="508">44</span><span
+                            _ngcontent-ppc-c5="1" class="period" _msttexthash="28600" _msthash="509">/mo</span></div>
+                        <div _ngcontent-ppc-c5="1" class="cost-hr" _msttexthash="133601" _msthash="510"> $0.072/hour
                         </div>
                       </div>
                     </div>
-                    <div _ngcontent-ppc-c5="" class="card-footer">
-                      <div _ngcontent-ppc-c5="" class="spec"><!---->
-                        <div _ngcontent-ppc-c5=""><font _mstmutation="1" _msttexthash="94965" _msthash="511">4 GB / 2
-                          <span _ngcontent-ppc-c5="" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5=""
+                    <div _ngcontent-ppc-c5="1" class="card-footer">
+                      <div _ngcontent-ppc-c5="1" class="spec"><!---->
+                        <div _ngcontent-ppc-c5="1"><font _mstmutation="1" _msttexthash="94965" _msthash="511">4 GB / 2
+                          <span _ngcontent-ppc-c5="1" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5="1"
                                                                                       _mstmutation="1">s</span></font>
                           <!----></div>
-                        <div _ngcontent-ppc-c5="" _msttexthash="103441" _msthash="512">1x100GB SSD</div><!---->
-                        <div _ngcontent-ppc-c5="" _msttexthash="354822" _msthash="485">Unlimited transfer</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="103441" _msthash="512">1x100GB SSD</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="354822" _msthash="485">Unlimited transfer</div><!---->
                         <!----></div>
                     </div>
                   </div>
                 </div>
-                <div _ngcontent-ppc-c5="" class="col-12 col-sm-3 mb-3">
-                  <div _ngcontent-ppc-c5="" class="size card">
-                    <div _ngcontent-ppc-c5="" class="card-body">
-                      <div _ngcontent-ppc-c5="" class="card-text">
-                        <div _ngcontent-ppc-c5="" class="cost-mo"><span _ngcontent-ppc-c5=""
+                <div _ngcontent-ppc-c5="1" class="col-12 col-sm-3 mb-3">
+                  <div _ngcontent-ppc-c5="1" class="size card">
+                    <div _ngcontent-ppc-c5="1" class="card-body">
+                      <div _ngcontent-ppc-c5="1" class="card-text">
+                        <div _ngcontent-ppc-c5="1" class="cost-mo"><span _ngcontent-ppc-c5="1"
                                                                         class="dollar">$</span><span
-                            _ngcontent-ppc-c5="" class="price" _msttexthash="10920" _msthash="503">88</span><span
-                            _ngcontent-ppc-c5="" class="period" _msttexthash="28600" _msthash="504">/mo</span></div>
-                        <div _ngcontent-ppc-c5="" class="cost-hr" _msttexthash="133614" _msthash="505"> $0.144/hour
+                            _ngcontent-ppc-c5="1" class="price" _msttexthash="10920" _msthash="503">88</span><span
+                            _ngcontent-ppc-c5="1" class="period" _msttexthash="28600" _msthash="504">/mo</span></div>
+                        <div _ngcontent-ppc-c5="1" class="cost-hr" _msttexthash="133614" _msthash="505"> $0.144/hour
                         </div>
                       </div>
                     </div>
-                    <div _ngcontent-ppc-c5="" class="card-footer">
-                      <div _ngcontent-ppc-c5="" class="spec"><!---->
-                        <div _ngcontent-ppc-c5=""><font _mstmutation="1" _msttexthash="95615" _msthash="506">8 GB / 4
-                          <span _ngcontent-ppc-c5="" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5=""
+                    <div _ngcontent-ppc-c5="1" class="card-footer">
+                      <div _ngcontent-ppc-c5="1" class="spec"><!---->
+                        <div _ngcontent-ppc-c5="1"><font _mstmutation="1" _msttexthash="95615" _msthash="506">8 GB / 4
+                          <span _ngcontent-ppc-c5="1" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5="1"
                                                                                       _mstmutation="1">s</span></font>
                           <!----></div>
-                        <div _ngcontent-ppc-c5="" _msttexthash="104091" _msthash="507">1x150GB SSD</div><!---->
-                        <div _ngcontent-ppc-c5="" _msttexthash="354822" _msthash="484">Unlimited transfer</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="104091" _msthash="507">1x150GB SSD</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="354822" _msthash="484">Unlimited transfer</div><!---->
                         <!----></div>
                     </div>
                   </div>
                 </div>
-                <div _ngcontent-ppc-c5="" class="col-12 col-sm-3 mb-3">
-                  <div _ngcontent-ppc-c5="" class="size card disabled">
-                    <div _ngcontent-ppc-c5="" class="card-body">
-                      <div _ngcontent-ppc-c5="" class="card-text">
-                        <div _ngcontent-ppc-c5="" class="cost-mo"><span _ngcontent-ppc-c5=""
+                <div _ngcontent-ppc-c5="1" class="col-12 col-sm-3 mb-3">
+                  <div _ngcontent-ppc-c5="1" class="size card disabled">
+                    <div _ngcontent-ppc-c5="1" class="card-body">
+                      <div _ngcontent-ppc-c5="1" class="card-text">
+                        <div _ngcontent-ppc-c5="1" class="cost-mo"><span _ngcontent-ppc-c5="1"
                                                                         class="dollar">$</span><span
-                            _ngcontent-ppc-c5="" class="price" _msttexthash="16497" _msthash="498">176</span><span
-                            _ngcontent-ppc-c5="" class="period" _msttexthash="28600" _msthash="499">/mo</span></div>
-                        <div _ngcontent-ppc-c5="" class="cost-hr" _msttexthash="134784" _msthash="500"> $0.287/hour
+                            _ngcontent-ppc-c5="1" class="price" _msttexthash="16497" _msthash="498">176</span><span
+                            _ngcontent-ppc-c5="1" class="period" _msttexthash="28600" _msthash="499">/mo</span></div>
+                        <div _ngcontent-ppc-c5="1" class="cost-hr" _msttexthash="134784" _msthash="500"> $0.287/hour
                         </div>
                       </div>
                     </div>
-                    <div _ngcontent-ppc-c5="" class="card-footer">
-                      <div _ngcontent-ppc-c5="" class="spec"><!---->
-                        <div _ngcontent-ppc-c5=""><font _mstmutation="1" _msttexthash="108485" _msthash="501">16 GB / 6
-                          <span _ngcontent-ppc-c5="" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5=""
+                    <div _ngcontent-ppc-c5="1" class="card-footer">
+                      <div _ngcontent-ppc-c5="1" class="spec"><!---->
+                        <div _ngcontent-ppc-c5="1"><font _mstmutation="1" _msttexthash="108485" _msthash="501">16 GB / 6
+                          <span _ngcontent-ppc-c5="1" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5="1"
                                                                                       _mstmutation="1">s</span></font>
                           <!----></div>
-                        <div _ngcontent-ppc-c5="" _msttexthash="103675" _msthash="502">1x300GB SSD</div><!---->
-                        <div _ngcontent-ppc-c5="" _msttexthash="354822" _msthash="483">Unlimited transfer</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="103675" _msthash="502">1x300GB SSD</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="354822" _msthash="483">Unlimited transfer</div><!---->
                         <!----></div>
                     </div>
                   </div>
                 </div>
-                <div _ngcontent-ppc-c5="" class="col-12 col-sm-3 mb-3">
-                  <div _ngcontent-ppc-c5="" class="size card disabled">
-                    <div _ngcontent-ppc-c5="" class="card-body">
-                      <div _ngcontent-ppc-c5="" class="card-text">
-                        <div _ngcontent-ppc-c5="" class="cost-mo"><span _ngcontent-ppc-c5=""
+                <div _ngcontent-ppc-c5="1" class="col-12 col-sm-3 mb-3">
+                  <div _ngcontent-ppc-c5="1" class="size card disabled">
+                    <div _ngcontent-ppc-c5="1" class="card-body">
+                      <div _ngcontent-ppc-c5="1" class="card-text">
+                        <div _ngcontent-ppc-c5="1" class="cost-mo"><span _ngcontent-ppc-c5="1"
                                                                         class="dollar">$</span><span
-                            _ngcontent-ppc-c5="" class="price" _msttexthash="16003" _msthash="493">352</span><span
-                            _ngcontent-ppc-c5="" class="period" _msttexthash="28600" _msthash="494">/mo</span></div>
-                        <div _ngcontent-ppc-c5="" class="cost-hr" _msttexthash="134719" _msthash="495"> $0.575/hour
+                            _ngcontent-ppc-c5="1" class="price" _msttexthash="16003" _msthash="493">352</span><span
+                            _ngcontent-ppc-c5="1" class="period" _msttexthash="28600" _msthash="494">/mo</span></div>
+                        <div _ngcontent-ppc-c5="1" class="cost-hr" _msttexthash="134719" _msthash="495"> $0.575/hour
                         </div>
                       </div>
                     </div>
-                    <div _ngcontent-ppc-c5="" class="card-footer">
-                      <div _ngcontent-ppc-c5="" class="spec"><!---->
-                        <div _ngcontent-ppc-c5=""><font _mstmutation="1" _msttexthash="108563" _msthash="496">32 GB / 8
-                          <span _ngcontent-ppc-c5="" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5=""
+                    <div _ngcontent-ppc-c5="1" class="card-footer">
+                      <div _ngcontent-ppc-c5="1" class="spec"><!---->
+                        <div _ngcontent-ppc-c5="1"><font _mstmutation="1" _msttexthash="108563" _msthash="496">32 GB / 8
+                          <span _ngcontent-ppc-c5="1" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5="1"
                                                                                       _mstmutation="1">s</span></font>
                           <!----></div>
-                        <div _ngcontent-ppc-c5="" _msttexthash="104026" _msthash="497">1x600GB SSD</div><!---->
-                        <div _ngcontent-ppc-c5="" _msttexthash="354822" _msthash="482">Unlimited transfer</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="104026" _msthash="497">1x600GB SSD</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="354822" _msthash="482">Unlimited transfer</div><!---->
                         <!----></div>
                     </div>
                   </div>
                 </div>
-                <div _ngcontent-ppc-c5="" class="col-12 col-sm-3 mb-3">
-                  <div _ngcontent-ppc-c5="" class="size card disabled">
-                    <div _ngcontent-ppc-c5="" class="card-body">
-                      <div _ngcontent-ppc-c5="" class="card-text">
-                        <div _ngcontent-ppc-c5="" class="cost-mo"><span _ngcontent-ppc-c5=""
+                <div _ngcontent-ppc-c5="1" class="col-12 col-sm-3 mb-3">
+                  <div _ngcontent-ppc-c5="1" class="size card disabled">
+                    <div _ngcontent-ppc-c5="1" class="card-body">
+                      <div _ngcontent-ppc-c5="1" class="card-text">
+                        <div _ngcontent-ppc-c5="1" class="cost-mo"><span _ngcontent-ppc-c5="1"
                                                                         class="dollar">$</span><span
-                            _ngcontent-ppc-c5="" class="price" _msttexthash="16081" _msthash="488">704</span><span
-                            _ngcontent-ppc-c5="" class="period" _msttexthash="28600" _msthash="489">/mo</span></div>
-                        <div _ngcontent-ppc-c5="" class="cost-hr" _msttexthash="119340" _msthash="490"> $1.15/hour</div>
+                            _ngcontent-ppc-c5="1" class="price" _msttexthash="16081" _msthash="488">704</span><span
+                            _ngcontent-ppc-c5="1" class="period" _msttexthash="28600" _msthash="489">/mo</span></div>
+                        <div _ngcontent-ppc-c5="1" class="cost-hr" _msttexthash="119340" _msthash="490"> $1.15/hour</div>
                       </div>
                     </div>
-                    <div _ngcontent-ppc-c5="" class="card-footer">
-                      <div _ngcontent-ppc-c5="" class="spec"><!---->
-                        <div _ngcontent-ppc-c5=""><font _mstmutation="1" _msttexthash="120575" _msthash="491">64 GB / 10
-                          <span _ngcontent-ppc-c5="" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5=""
+                    <div _ngcontent-ppc-c5="1" class="card-footer">
+                      <div _ngcontent-ppc-c5="1" class="spec"><!---->
+                        <div _ngcontent-ppc-c5="1"><font _mstmutation="1" _msttexthash="120575" _msthash="491">64 GB / 10
+                          <span _ngcontent-ppc-c5="1" _mstmutation="1">CPU</span><span _ngcontent-ppc-c5="1"
                                                                                       _mstmutation="1">s</span></font>
                           <!----></div>
-                        <div _ngcontent-ppc-c5="" _msttexthash="116012" _msthash="492">1x1200GB SSD</div><!---->
-                        <div _ngcontent-ppc-c5="" _msttexthash="354822" _msthash="481">Unlimited transfer</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="116012" _msthash="492">1x1200GB SSD</div><!---->
+                        <div _ngcontent-ppc-c5="1" _msttexthash="354822" _msthash="481">Unlimited transfer</div><!---->
                         <!----></div>
                     </div>
                   </div>
@@ -672,71 +672,71 @@
               </div><!----></div>
           </app-server-size>
         </div>
-        <div _ngcontent-ppc-c3="" class="mb-5">
-          <div _ngcontent-ppc-c3="" class="row mb-3">
-            <div _ngcontent-ppc-c3="" class="col"><h4 _ngcontent-ppc-c3="" _msttexthash="288249" _msthash="554">Set
+        <div _ngcontent-ppc-c3="1" class="mb-5">
+          <div _ngcontent-ppc-c3="1" class="row mb-3">
+            <div _ngcontent-ppc-c3="1" class="col"><h4 _ngcontent-ppc-c3="1" _msttexthash="288249" _msthash="554">Set
               access method</h4></div>
           </div>
-          <div _ngcontent-ppc-c3="" class="row">
-            <div _ngcontent-ppc-c3="" class="col-12 col-sm-12"><!----><p _ngcontent-ppc-c3="" _msttexthash="3833037"
+          <div _ngcontent-ppc-c3="1" class="row">
+            <div _ngcontent-ppc-c3="1" class="col-12 col-sm-12"><!----><p _ngcontent-ppc-c3="1" _msttexthash="3833037"
                                                                          _msthash="551">Choose to access your server
               with a password or with SSH keys. You can also use both.</p><!----></div>
           </div>
-          <div _ngcontent-ppc-c3="" class="row mb-3">
-            <div _ngcontent-ppc-c3="" class="col">
-              <ul _ngcontent-ppc-c3="" class="nav-images nav nav-pills">
-                <li _ngcontent-ppc-c3="" class="nav-item"><a _ngcontent-ppc-c3="" class="nav-link active" 
+          <div _ngcontent-ppc-c3="1" class="row mb-3">
+            <div _ngcontent-ppc-c3="1" class="col">
+              <ul _ngcontent-ppc-c3="1" class="nav-images nav nav-pills">
+                <li _ngcontent-ppc-c3="1" class="nav-item"><a _ngcontent-ppc-c3="1" class="nav-link active" 
                                                              _msttexthash="117572" _msthash="555">Password</a></li>
                 <!---->
-                <li _ngcontent-ppc-c3="" class="nav-item"><a _ngcontent-ppc-c3="" class="nav-link" 
+                <li _ngcontent-ppc-c3="1" class="nav-item"><a _ngcontent-ppc-c3="1" class="nav-link" 
                                                              _msttexthash="407550" _msthash="550">SSH Keys <small
-                    _ngcontent-ppc-c3="">(recommended)</small></a></li>
+                    _ngcontent-ppc-c3="1">(recommended)</small></a></li>
               </ul>
             </div>
           </div>
-          <div _ngcontent-ppc-c3="">
-            <div _ngcontent-ppc-c3="" class="row mb-3">
-              <div _ngcontent-ppc-c3="" class="col-12 col-sm-12 mb-2">
-                <div _ngcontent-ppc-c3="" class="row">
-                  <div _ngcontent-ppc-c3="" class="col"><label _ngcontent-ppc-c3="" _msttexthash="265213"
+          <div _ngcontent-ppc-c3="1">
+            <div _ngcontent-ppc-c3="1" class="row mb-3">
+              <div _ngcontent-ppc-c3="1" class="col-12 col-sm-12 mb-2">
+                <div _ngcontent-ppc-c3="1" class="row">
+                  <div _ngcontent-ppc-c3="1" class="col"><label _ngcontent-ppc-c3="1" _msttexthash="265213"
                                                                _msthash="556">Enter a password</label>
-                    <password-validator _ngcontent-ppc-c3="" _nghost-ppc-c6="">
-                      <div _ngcontent-ppc-c6="" class="input-group input-group-lg"><input _ngcontent-ppc-c6=""
+                    <password-validator _ngcontent-ppc-c3="1" _nghost-ppc-c6="1">
+                      <div _ngcontent-ppc-c6="1" class="input-group input-group-lg"><input _ngcontent-ppc-c6="1"
                                                                                           class="form-control is-invalid ng-untouched ng-pristine ng-valid"
                                                                                           id="password" name="password"
                                                                                           placeholder="••••••••••••"
                                                                                           type="password"
                                                                                           _mstplaceholder="16040700"
                                                                                           _msthash="557"></div>
-                      <div _ngcontent-ppc-c6="" class="row">
-                        <div _ngcontent-ppc-c6="" class="col-12 mt-2"><strong _ngcontent-ppc-c6="" _msttexthash="462332"
+                      <div _ngcontent-ppc-c6="1" class="row">
+                        <div _ngcontent-ppc-c6="1" class="col-12 mt-2"><strong _ngcontent-ppc-c6="1" _msttexthash="462332"
                                                                               _msthash="558">Password
                           Requirements</strong></div>
                       </div>
-                      <div _ngcontent-ppc-c6="" class="row">
-                        <div _ngcontent-ppc-c6="" class="col-12 pb-1"><i _ngcontent-ppc-c6=""
+                      <div _ngcontent-ppc-c6="1" class="row">
+                        <div _ngcontent-ppc-c6="1" class="col-12 pb-1"><i _ngcontent-ppc-c6="1"
                                                                          class="material-icons validity-icon text-danger"
                                                                          _msttexthash="62621"
                                                                          _msthash="559">close</i><span
-                            _ngcontent-ppc-c6="" _msttexthash="813839" _msthash="560">Must be at least 12 characters long</span>
+                            _ngcontent-ppc-c6="1" _msttexthash="813839" _msthash="560">Must be at least 12 characters long</span>
                         </div>
-                        <div _ngcontent-ppc-c6="" class="col-12 pb-1"><i _ngcontent-ppc-c6=""
+                        <div _ngcontent-ppc-c6="1" class="col-12 pb-1"><i _ngcontent-ppc-c6="1"
                                                                          class="material-icons validity-icon text-danger"
                                                                          _msttexthash="62621"
                                                                          _msthash="561">close</i><span
-                            _ngcontent-ppc-c6="" _msttexthash="744016"
+                            _ngcontent-ppc-c6="1" _msttexthash="744016"
                             _msthash="562">Must contain 1 uppercase letter</span></div>
-                        <div _ngcontent-ppc-c6="" class="col-12 pb-1"><i _ngcontent-ppc-c6=""
+                        <div _ngcontent-ppc-c6="1" class="col-12 pb-1"><i _ngcontent-ppc-c6="1"
                                                                          class="material-icons validity-icon text-danger"
                                                                          _msttexthash="62621"
                                                                          _msthash="563">close</i><span
-                            _ngcontent-ppc-c6="" _msttexthash="704548"
+                            _ngcontent-ppc-c6="1" _msttexthash="704548"
                             _msthash="564">Must contain 1 number or symbol</span></div>
-                        <div _ngcontent-ppc-c6="" class="col-12 pb-1"><i _ngcontent-ppc-c6=""
+                        <div _ngcontent-ppc-c6="1" class="col-12 pb-1"><i _ngcontent-ppc-c6="1"
                                                                          class="material-icons validity-icon text-danger"
                                                                          _msttexthash="62621"
                                                                          _msthash="565">close</i><span
-                            _ngcontent-ppc-c6="" _msttexthash="1211145" _msthash="566">Cannot end in a number or special character</span>
+                            _ngcontent-ppc-c6="1" _msttexthash="1211145" _msthash="566">Cannot end in a number or special character</span>
                         </div>
                       </div>
                     </password-validator>
@@ -745,116 +745,116 @@
               </div>
             </div>
           </div>
-          <div _ngcontent-ppc-c3="" hidden="">
-            <app-spinner _ngcontent-ppc-c3="" options="la-dark" _nghost-ppc-c7=""><!----></app-spinner><!---->
-            <div _ngcontent-ppc-c3="" class="row mb-3" _msthidden="2">
-              <div _ngcontent-ppc-c3="" class="col-12" _msthidden="1"><p _ngcontent-ppc-c3="" _msthidden="1">
+          <div _ngcontent-ppc-c3="1" >
+            <app-spinner _ngcontent-ppc-c3="1" options="la-dark" _nghost-ppc-c7="1"><!----></app-spinner><!---->
+            <div _ngcontent-ppc-c3="1" class="row mb-3" _msthidden="2">
+              <div _ngcontent-ppc-c3="1" class="col-12" _msthidden="1"><p _ngcontent-ppc-c3="1" _msthidden="1">
                 <!----><font _mstmutation="1" _msttexthash="911677" _msthidden="1" _msthash="548"><span
-                  _ngcontent-ppc-c3="" _mstmutation="1">Add</span> an <a _ngcontent-ppc-c3=""
+                  _ngcontent-ppc-c3="1" _mstmutation="1">Add</span> an <a _ngcontent-ppc-c3="1"
                                                                          href="https://bitlaunch.io/blog/creating-an-ssh-key/"
                                                                          target="_blank" _mstmutation="1">SSH key</a> to
                 use with your server </font><!----></p></div>
-              <div _ngcontent-ppc-c3="" class="col-12 col-sm-3 mb-2" _msthidden="1">
-                <button _ngcontent-ppc-c3="" class="btn btn-secondary btn-lg" _msttexthash="120068" _msthidden="1"
+              <div _ngcontent-ppc-c3="1" class="col-12 col-sm-3 mb-2" _msthidden="1">
+                <button _ngcontent-ppc-c3="1" class="btn btn-secondary btn-lg" _msttexthash="120068" _msthidden="1"
                         _msthash="549">New SSH Key
                 </button>
               </div>
-              <div _ngcontent-ppc-c3="" class="col-12 col-sm-9 mb-2">
-                <div _ngcontent-ppc-c3="" class="row"><!----></div>
+              <div _ngcontent-ppc-c3="1" class="col-12 col-sm-9 mb-2">
+                <div _ngcontent-ppc-c3="1" class="row"><!----></div>
               </div>
             </div>
           </div>
         </div><!---->
-        <div _ngcontent-ppc-c3="" class="mb-5">
-          <div _ngcontent-ppc-c3="" class="row mb-3">
-            <div _ngcontent-ppc-c3="" class="col"><h4 _ngcontent-ppc-c3="" _msttexthash="995813" _msthash="546">Add an
+        <div _ngcontent-ppc-c3="1" class="mb-5">
+          <div _ngcontent-ppc-c3="1" class="row mb-3">
+            <div _ngcontent-ppc-c3="1" class="col"><h4 _ngcontent-ppc-c3="1" _msttexthash="995813" _msthash="546">Add an
               initial setup script (Optional)</h4></div>
           </div>
-          <div _ngcontent-ppc-c3="" class="row">
-            <div _ngcontent-ppc-c3="" class="col">
-              <div _ngcontent-ppc-c3="" class="input-group input-group-lg"><textarea _ngcontent-ppc-c3=""
+          <div _ngcontent-ppc-c3="1" class="row">
+            <div _ngcontent-ppc-c3="1" class="col">
+              <div _ngcontent-ppc-c3="1" class="input-group input-group-lg"><textarea _ngcontent-ppc-c3="1"
                                                                                      class="form-control init-script-input ng-untouched ng-pristine ng-valid"
                                                                                      placeholder="#!/bin/sh"
                                                                                      _mstplaceholder="106184"
                                                                                      _msthash="466"></textarea></div>
-              <small _ngcontent-ppc-c3="" class="form-text text-muted"><!----><!----><span _ngcontent-ppc-c3=""
+              <small _ngcontent-ppc-c3="1" class="form-text text-muted"><!----><!----><span _ngcontent-ppc-c3="1"
                                                                                            _msttexthash="2676245"
                                                                                            _msthash="547"> You can use bash to automatically configure your server on launch. </span></small>
             </div>
           </div>
         </div>
-        <div _ngcontent-ppc-c3="" class="row mb-3">
-          <div _ngcontent-ppc-c3="" class="col"><h4 _ngcontent-ppc-c3="" _msttexthash="346580" _msthash="567">Finalize
+        <div _ngcontent-ppc-c3="1" class="row mb-3">
+          <div _ngcontent-ppc-c3="1" class="col"><h4 _ngcontent-ppc-c3="1" _msttexthash="346580" _msthash="567">Finalize
             and launch</h4></div>
         </div>
-        <form _ngcontent-ppc-c3="" class="mb-5 ng-untouched ng-pristine ng-valid" novalidate="">
-          <div _ngcontent-ppc-c3="" class="row">
-            <div _ngcontent-ppc-c3="" class="col"><label _ngcontent-ppc-c3=""><font _mstmutation="1"
+        <form _ngcontent-ppc-c3="1" class="mb-5 ng-untouched ng-pristine ng-valid" >
+          <div _ngcontent-ppc-c3="1" class="row">
+            <div _ngcontent-ppc-c3="1" class="col"><label _ngcontent-ppc-c3="1"><font _mstmutation="1"
                                                                                     _msttexthash="114296"
                                                                                     _msthash="568">Hostname </font><span
-                _ngcontent-ppc-c3="" class="badge badge-secondary" _msttexthash="86385"
+                _ngcontent-ppc-c3="1" class="badge badge-secondary" _msttexthash="86385"
                 _msthash="569">rDNS off</span></label>
-              <div _ngcontent-ppc-c3="" class="input-group input-group-lg"><input _ngcontent-ppc-c3=""
+              <div _ngcontent-ppc-c3="1" class="input-group input-group-lg"><input _ngcontent-ppc-c3="1"
                                                                                   class="form-control ng-untouched ng-pristine ng-valid"
                                                                                   formcontrolname="name"
                                                                                   ngchange="updateRDNSStatus()"
                                                                                   placeholder="my-awesome-server"
                                                                                   type="text" _mstplaceholder="341679"
                                                                                   _msthash="570"></div>
-              <small _ngcontent-ppc-c3="" class="form-text text-muted" _msttexthash="1191450" _msthash="571"> Choose a
+              <small _ngcontent-ppc-c3="1" class="form-text text-muted" _msttexthash="1191450" _msthash="571"> Choose a
                 descriptive name for your server </small></div>
           </div>
         </form>
-        <div _ngcontent-ppc-c3="" class="row mb-5">
-          <div _ngcontent-ppc-c3="" class="col text-center"><!---->
-            <div _ngcontent-ppc-c3="" class="text-danger" _msttexthash="4001127" _msthash="545">Your balance is too low
-              to launch this server. Add funds in your <a _ngcontent-ppc-c3="" routerlink="/account/billing"
+        <div _ngcontent-ppc-c3="1" class="row mb-5">
+          <div _ngcontent-ppc-c3="1" class="col text-center"><!---->
+            <div _ngcontent-ppc-c3="1" class="text-danger" _msttexthash="4001127" _msthash="545">Your balance is too low
+              to launch this server. Add funds in your <a _ngcontent-ppc-c3="1" routerlink="/account/billing"
                                                           href="/account/billing">account billing area</a></div>
-            <div _ngcontent-ppc-c3="">
-              <button _ngcontent-ppc-c3="" class="btn-launch btn btn-success btn-lg btn-block" disabled=""><!----><span
-                  _ngcontent-ppc-c3="" _msttexthash="203554" _msthash="572">Launch Server</span>
-                <app-spinner _ngcontent-ppc-c3="" _nghost-ppc-c7=""><!----></app-spinner>
+            <div _ngcontent-ppc-c3="1">
+              <button _ngcontent-ppc-c3="1" class="btn-launch btn btn-success btn-lg btn-block" ><!----><span
+                  _ngcontent-ppc-c3="1" _msttexthash="203554" _msthash="572">Launch Server</span>
+                <app-spinner _ngcontent-ppc-c3="1" _nghost-ppc-c7="1"><!----></app-spinner>
               </button>
             </div>
           </div>
         </div>
       </div>
     </div><!---->
-    <app-sshkey-dialog _ngcontent-ppc-c3="" _nghost-ppc-c8="" _msthidden="4">
-      <div _ngcontent-ppc-c8="" aria-hidden="true" aria-labelledby="mySmallModalLabel" bsmodal="" class="modal fade"
+    <app-sshkey-dialog _ngcontent-ppc-c3="1" _nghost-ppc-c8="1" _msthidden="4">
+      <div aria-hidden="true" aria-labelledby="mySmallModalLabel" bsmodal="1" class="modal fade"
            role="dialog" tabindex="-1" _msthidden="4">
-        <div _ngcontent-ppc-c8="" class="modal-dialog" _msthidden="4">
-          <div _ngcontent-ppc-c8="" class="modal-content" _msthidden="4">
-            <div _ngcontent-ppc-c8="" class="modal-header" _msthidden="2"><h4 _ngcontent-ppc-c8=""
+        <div class="modal-dialog" _msthidden="4">
+          <div class="modal-content" _msthidden="4">
+            <div class="modal-header" _msthidden="2"><h4 _ngcontent-ppc-c8="1"
                                                                               class="modal-title pull-left"></h4>
-              <button _ngcontent-ppc-c8="" aria-label="Close" class="close pull-right" type="button" _msthidden="1"
-                      _mstaria-label="59709" _msthash="151"><span _ngcontent-ppc-c8="" aria-hidden="true"
+              <button aria-label="Close" class="close pull-right" type="button" _msthidden="1"
+                      _mstaria-label="59709" _msthash="151"><span aria-hidden="true"
                                                                   _msttexthash="19565" _msthidden="1"
                                                                   _msthash="152">×</span></button>
             </div>
-            <div _ngcontent-ppc-c8="" class="modal-body" _msthidden="2">
-              <form _ngcontent-ppc-c8="" novalidate="" class="ng-untouched ng-pristine ng-invalid" _msthidden="2">
-                <div _ngcontent-ppc-c8="" class="row mb-3" _msthidden="1">
-                  <div _ngcontent-ppc-c8="" class="col" _msthidden="1"><textarea _ngcontent-ppc-c8=""
+            <div class="modal-body" _msthidden="2">
+              <form  class="ng-untouched ng-pristine ng-invalid" _msthidden="2">
+                <div class="row mb-3" _msthidden="1">
+                  <div class="col" _msthidden="1"><textarea _ngcontent-ppc-c8="1"
                                                                                  class="form-control ng-untouched ng-pristine ng-invalid"
                                                                                  formcontrolname="key" name="key"
                                                                                  placeholder="SSH key content"
                                                                                  _msthidden="A" _mstplaceholder="231062"
                                                                                  _msthash="153"></textarea></div>
                 </div>
-                <div _ngcontent-ppc-c8="" class="row mb-3" _msthidden="1">
-                  <div _ngcontent-ppc-c8="" class="col" _msthidden="1">
-                    <div _ngcontent-ppc-c8="" class="input-group input-group-lg" _msthidden="1"><input
-                        _ngcontent-ppc-c8="" class="form-control ng-untouched ng-pristine ng-invalid"
+                <div class="row mb-3" _msthidden="1">
+                  <div class="col" _msthidden="1">
+                    <div class="input-group input-group-lg" _msthidden="1"><input
+                        class="form-control ng-untouched ng-pristine ng-invalid"
                         formcontrolname="name" name="name" placeholder="Name" type="text" _msthidden="A"
                         _mstplaceholder="43069" _msthash="154"></div>
                   </div>
                 </div>
-                <div _ngcontent-ppc-c8="" class="row">
-                  <div _ngcontent-ppc-c8="" class="col">
-                    <button _ngcontent-ppc-c8="" class="btn btn-lg btn-success btn-block" disabled="">
-                      <app-spinner _ngcontent-ppc-c8="" _nghost-ppc-c7=""><!----></app-spinner><!----><span
-                        _ngcontent-ppc-c8=""></span></button>
+                <div class="row">
+                  <div class="col">
+                    <button class="btn btn-lg btn-success btn-block" >
+                      <app-spinner _nghost-ppc-c7="1"><!----></app-spinner><!----><span
+                        _ngcontent-ppc-c8="1"></span></button>
                   </div>
                 </div>
               </form>
@@ -3594,7 +3594,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
   height: 0;
   margin-left: .255em;
   vertical-align: .255em;
-  content: "";
+  content: "1";
   border-top: .3em solid;
   border-right: .3em solid transparent;
   border-bottom: 0;
@@ -3643,7 +3643,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
   height: 0;
   margin-left: .255em;
   vertical-align: .255em;
-  content: "";
+  content: "1";
   border-top: 0;
   border-right: .3em solid transparent;
   border-bottom: .3em solid;
@@ -3667,7 +3667,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
   width: 0;
   height: 0;
   margin-left: .255em;
-  content: "";
+  content: "1";
   border-top: .3em solid transparent;
   border-right: 0;
   border-bottom: .3em solid transparent;
@@ -3692,7 +3692,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
   height: 0;
   margin-left: .255em;
   vertical-align: .255em;
-  content: "";
+  content: "1";
   display: none
 }
 
@@ -3701,7 +3701,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
   width: 0;
   height: 0;
   margin-right: .255em;
-  content: "";
+  content: "1";
   border-top: .3em solid transparent;
   border-right: .3em solid;
   border-bottom: .3em solid transparent;
@@ -4046,7 +4046,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
   width: 1rem;
   height: 1rem;
   pointer-events: none;
-  content: "";
+  content: "1";
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -4061,7 +4061,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
   display: block;
   width: 1rem;
   height: 1rem;
-  content: "";
+  content: "1";
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 50% 50%
@@ -4550,7 +4550,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
   width: 1.5em;
   height: 1.5em;
   vertical-align: middle;
-  content: "";
+  content: "1";
   background: center center/100% 100% no-repeat
 }
 
@@ -5801,7 +5801,7 @@ button.close {
 .modal-dialog-centered::before {
   display: block;
   height: calc(100vh - (.5rem * 2));
-  content: ""
+  content: "1"
 }
 
 .modal-content {
@@ -5946,7 +5946,7 @@ button.close {
 
 .tooltip .arrow::before {
   position: absolute;
-  content: "";
+  content: "1";
   border-color: transparent;
   border-style: solid
 }
@@ -6060,7 +6060,7 @@ button.close {
 .popover .arrow::after, .popover .arrow::before {
   position: absolute;
   display: block;
-  content: "";
+  content: "1";
   border-color: transparent;
   border-style: solid
 }
@@ -6141,7 +6141,7 @@ button.close {
   display: block;
   width: 1rem;
   margin-left: -.5rem;
-  content: "";
+  content: "1";
   border-bottom: 1px solid #f7f7f7
 }
 
@@ -6356,7 +6356,7 @@ button.close {
   display: inline-block;
   width: 100%;
   height: 10px;
-  content: ""
+  content: "1"
 }
 
 .carousel-indicators li::after {
@@ -6366,7 +6366,7 @@ button.close {
   display: inline-block;
   width: 100%;
   height: 10px;
-  content: ""
+  content: "1"
 }
 
 .carousel-indicators .active {
@@ -6592,7 +6592,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 .clearfix::after {
   display: block;
   clear: both;
-  content: ""
+  content: "1"
 }
 
 .d-none {
@@ -6831,7 +6831,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 
 .embed-responsive::before {
   display: block;
-  content: ""
+  content: "1"
 }
 
 .embed-responsive .embed-responsive-item, .embed-responsive embed, .embed-responsive iframe, .embed-responsive object, .embed-responsive video {
